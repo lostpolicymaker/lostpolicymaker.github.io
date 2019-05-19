@@ -1,0 +1,46 @@
+.flowpaper-reflow-expandingpanel{
+    position:absolute;
+    height:100%;
+    width:0px;
+    float:left;
+    background-color:#262626;
+    overflow-x:hidden;
+    overflow-y:auto;
+}
+
+.flowpaper-reflow-tocitem{
+    font-size:0.9em;color:#cccccc;cursor:pointer;
+    line-height:48px;
+    padding-left:3px;
+    position:absolute;
+    white-space: nowrap;
+    width:100%;
+    overflow:hidden;
+    text-decoration:none;
+}
+
+.flowpaper-reflow-tocitem:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 10%;
+    height: 48px;
+    pointer-events: none;
+}
+
+.flowpaper-reflow-tocitem-listitem{
+    min-height:48px;
+    list-style:none;
+    position:relative;
+}
+
+.flowpaper-reflow-tocitem-pct{
+    height:85%;
+    background-color:#3f3f3f;
+    position:absolute
+}
+
+.tocheader{
+    color:#ffffff;
+}
