@@ -1,3 +1,9 @@
+---
+layout: page
+title: Acknowledgements
+subtitle: The people who helped make this happen
+---
+
 # Acknowledgements
 
 This project is fully volunteer driven. While many dozens of people have provided feedback and support, this initiative would not exist without the help of a few of these people.
@@ -27,7 +33,6 @@ Whitney is a privacy and information security attorney and technologist. Previou
 Beau wears a lot of hats, all white. He has hacked medical devices, won Best Mustache at Movember London, evaded Mafiosi near Moscow. Beau is also a leader with I Am The Cavalry, an Atlantic Council Fellow, DEF CON Goon, Village organizer, BSidesLV staff, has a BS in Psychology from Georgia Tech, and lives in DC.
 
 ## Designers
-* Brendan O'Connor - Web Design
 * Julie Munsayac - Graphic Design
 
 ## Supporters
