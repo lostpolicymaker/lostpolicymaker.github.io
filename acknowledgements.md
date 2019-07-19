@@ -29,7 +29,7 @@ Never doubt that a small group of thoughtful, committed citizens can change the 
 * Whitney Merrill [@wbm312](https://twitter.com/wbm312)
   * Whitney is a privacy and information security attorney and technologist. Previously, she served in government as an attorney at the Federal Trade Commission, where she worked on a variety of consumer protection matters including data security, privacy and deceptive marketing and advertising. She was also a member of the NSF’s [CyberCorps](https://www.sfs.opm.gov/). She also runs the Crypto & Privacy Village, which appears at DEF CON and BSidesSF.
 
-* Beau Woods [@beauwoods](https://twitter.com/beauwoods) [@iamthecavalry](https://twitter.com/iamthecavalry)
+* Beau Woods [@beauwoods](https://twitter.com/beauwoods) / [@iamthecavalry](https://twitter.com/iamthecavalry)
   * Beau wears a lot of hats, all white. He has hacked medical devices, won Best Mustache at Movember London, and evaded Mafiosi near Moscow. Beau is also a leader with I Am The Cavalry, an Atlantic Council Fellow, DEF CON Goon, Village organizer, BSidesLV staff, has a BS in Psychology from Georgia Tech, and lives in DC.
 
 ## Designers
