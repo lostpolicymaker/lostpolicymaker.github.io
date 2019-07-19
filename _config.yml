@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: The Lost Policymaker's Guide to Hacker Summer Camp
+title: The Lost Policymaker
 
 # Short description of your site
-description: A tongue-in-cheek nod to all the great travel guides that have given aid and comfort to those who seek new experiences in unknown spaces.
+description: A resource for public policy community attending hacker conferences. A tongue-in-cheek nod to all the great travel guides that have given aid and comfort to those who seek new experiences in unknown spaces.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -109,7 +109,7 @@ url-pretty: "lostpolicymaker.org"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-144208075-1"
+google_analytics: "UA-144208075-1"
 
 # Google Tag Manager ID
 #gtm: ""
