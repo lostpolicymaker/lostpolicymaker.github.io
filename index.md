@@ -5,11 +5,14 @@ subtitle: to Hacker Summer Camp
 use-site-title: true
 ---
 
-The Lost Policymaker's Guide is a travel guide, faithful companion, and resource for the DEF CON Policy experience. DEF CON Policy is a guided experience for government officials, public policy members and staff to explore and get the most out of DEF CON 27. Activities and support includes: advance registration, daily policy pocket guide schedule, invitations to DEF CON policy roundtables, 1:1 guided tours and meetings with DEF CON communities, villages and speakers. 
 
-This site has two primary purposes:
+The Lost Policymaker is a tongue-in-cheek nod to all the great travel guides that have given aid and comfort to those who seek new experiences in unknown spaces. We hope it will serve you in the same capacity as you travel through hacker conferences in the Las Vegas desert, affectionately known as Hacker Summer Camp.
 
-* Hosting the PDF version of [the Guide](LostPolicymaker_HackerSummerCamp_2019.pdf) so you have easy access to it.
-* Providing quick links to reference material that might be more useful in an interactive format.
+## Getting Started
 
-Please check out the links at the top of the page for more information, and enjoy DEF CON!
+Even for hackers, our first journey to Hacker Summer Camp is often overwhelming. It takes a year or two to figure out how we want to experience the sensory overload. For those not accustomed to hacker culture, it's doubly disorienting.
+
+The inaugural [Lost Policymaker's Guide to Hacker Summer Camp](LostPolicymaker_HackerSummerCamp_2019.pdf) helps those in the policy field more quickly gain their footing at the events and understand hacker ethos and culture. Guiding new attendees gives them the best possible chance for an authentic experience the first time at Hacker Summer Camp - even if they hate it.
+
+Follow the action with [#lostpolicymaker](https://twitter.com/search?q=%23lostpolicymaker) on your favorite social media outlets.
+
