@@ -20,9 +20,7 @@ description: A tongue-in-cheek nod to all the great travel guides that have give
 
 # List of links in the navigation bar
 navbar-links:
-  About:
-    - About This Guide: "about"
-    - Acknowledgements: "acknowledgements"
+  Acknowledgements: "acknowledgements"
   Conference Information:
     - Black Hat Briefings: "https://www.blackhat.com/us-19/briefings/schedule/index.html"
     - Black Hat Arsenal: "https://www.blackhat.com/us-19/arsenal/schedule/index.html"
@@ -31,6 +29,7 @@ navbar-links:
     - DEF CON Schedule: "https://defcon.org/html/defcon-27/dc-27-schedule.html"
     - DEF CON Map: "https://defcon.org/html/defcon-27/dc-27-venue.html"
     - DEF CON Policy Passport: "http://bit.ly/DCPolicyReg"
+  The Guide: "LostPolicymaker_HackerSummerCamp_2019.pdf"
   # Author's home: "http://deanattali.com"
 
 
