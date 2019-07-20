@@ -16,4 +16,4 @@ The goal is to reduce the barrier to entry for the public policy community (thos
 
 Follow the action with [#lostpolicymaker](https://twitter.com/search?q=%23lostpolicymaker) on your favorite social media outlets.
 
-Contribute content on the [GitHub repository](https://github.com/lostpolicymaker/lostpolicymaker.github.io). <img="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+Contribute content on the [GitHub repository](https://github.com/lostpolicymaker/lostpolicymaker.github.io). 
