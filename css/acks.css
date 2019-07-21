@@ -1,0 +1,21 @@
+/* Acknowledgements Page Only */
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  padding-bottom: 1em;
+}
+
+
+.biossocial {
+  color: #20cfc6;
+}
+
+.biossocial a {
+  color: #20CFC6;
+}
+
+.acktitle {
+  color: #20CFC6;
+  font-variant: small-caps;
+}
