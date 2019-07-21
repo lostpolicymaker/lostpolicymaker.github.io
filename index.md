@@ -25,9 +25,15 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 
 <div class="tab-content">
 
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+  background-color: #fff;
+}
+
 <div role="tabpanel" class="tab-pane active" id="blackhat">
 <h3>Black Hat</h3>
-<table>
+<table border="0">
 <tr><td>when:</td><td>August 3-6, 2019 (Trainings)</td></tr>
 <tr><td>&nbsp;</td><td>August 7-8, 2019 (Briefings)</td></tr>
 <tr><td>where:</td><td>Mandalay Bay Conference Center</td></tr>
@@ -37,7 +43,7 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 
 <div role="tabpanel" class="tab-pane" id="bsideslv">
 <h3>BSides Las Vegas</h3>
-<table>
+<table border="0">
 <tr><td>when:</td><td>August 6-7, 2019</td></tr>
 <tr><td>where:</td><td>Tuscany Hotel and Casino</td></tr>
 <tr><td>&nbsp;</td><td>Platinum Hotel and Spa</td></tr>
@@ -48,7 +54,7 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 
 <div role="tabpanel" class="tab-pane" id="defcon">
 <h3>DEF CON</h3>
-<table>
+<table border="0">
 <tr><td>when:</td><td>August 8-11, 2019</td></tr>
 <tr><td>where:</td><td>Paris Convention Center</td></tr>
 <tr><td>&nbsp;</td><td>Bally’s Convention Center</td></tr>
