@@ -66,7 +66,7 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 <li>Conference admission is cash-only, and comes with a custom designed badge, unique each year.</li>
 <li>The art and effort that have gone into the official badges have spawned a cultural trend called <a href="https://twitter.com/hashtag/badgelife">#badgelife</a>, where dozens of unofficial electronic badges and digital ecosystems have sprung up. Badgelife describes the grueling experience of creating a piece of hardware from concept to completion in 8-10 months.</li>
 </ul>
-<p> The <a href="http://bit.ly/DCPolicyReg">DEF CON Policy Passport</a> is like a "fast pass" for the conference, allowing members of the public policy community to register with dedicated support and orientation tools to help out.
+<p> The <a href="http://bit.ly/DCPolicyReg">DEF CON Policy Passport</a> is like a "fast pass" for the conference, allowing members of the public policy community to register with dedicated support and orientation tools to help out.</p>
 </div>
 
 </div>
