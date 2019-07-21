@@ -29,7 +29,7 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 <h3>Black Hat</h3>
 <table>
 <tr><td>when:</td><td>August 3-6, 2019 (Trainings)</td></tr>
-<tr><td>&nbsp;</td><tr>August 7-8, 2019 (Briefings)</td></tr>
+<tr><td>&nbsp;</td><td>August 7-8, 2019 (Briefings)</td></tr>
 <tr><td>where:</td><td>Mandalay Bay Conference Center</td></tr>
 </table>
 <p>The <a href="https://blackhat.com/us-19">Black Hat</a> conference was founded in 1997 by the organizers of DEF CON, for a business audience. This event features talks about security issues and approaches that impact enterprises and corporations. Black Hat is much more expensive than the other two events, and draws from a different crowd. However, many Black Hat attendees also attend DEF CON, as the two always run back-to-back. Black Hat draws nearly 20,000 attendees, for trainings and presentations, as well as a large vendor floor. Of the three events, this one feels the most like a traditional conference or convention. Black Hat has grown from a single annual conference in Las Vegas and are held annually in the United States, Europe and Asia.</p>
@@ -37,12 +37,24 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 
 <div role="tabpanel" class="tab-pane" id="bsideslv">
 <h3>BSides Las Vegas</h3>
+<table>
+<tr><td>when:</td><td>August 6-7, 2019</td></tr>
+<tr><td>where:</td><td>Tuscany Hotel and Casino</td></tr>
+<tr><td>&nbsp;</td><td>Platinum Hotel and Spa</td></tr>
+</table>
 <p><a href="https://bsideslv.org">BSides Las Vegas</a> is the original, and one of the largest Security BSides events in the world. Since its founding in 2009, BSides Las Vegas has grown year-over-year, now hosting 3,000 attendees. The Security BSides series of events has seen hundreds of events in hundreds of cities, each run by a dedicated group of volunteers.</p>
 <p>The annual two-day event started as an 'un-conference' supporting talks previously rejected by Black Hat, and has since grown to one of the must attend events of the summer. BSides Las Vegas is a source of education, communication, and collaboration. The technical and academic presentations are given in the spirit of peer review and for the dissemination of knowledge among all specialties.</p>
 </div>
 
 <div role="tabpanel" class="tab-pane" id="defcon">
 <h3>DEF CON</h3>
+<table>
+<tr><td>when:</td><td>August 8-11, 2019</td></tr>
+<tr><td>where:</td><td>Paris Convention Center</td></tr>
+<tr><td>&nbsp;</td><td>Bally’s Convention Center</td></tr>
+<tr><td>&nbsp;</td><td>Planet Hollywood Convention Center</td></tr>
+<tr><td>&nbsp;</td><td>Flamingo Convention Center</td></tr>
+</table>
 <p>The <a href="https://defcon.org">DEF CON</a> conference began in 1993 as a party to celebrate the closing of a popular online network. The party got out of hand before it even started, as dozens of other groups were invited, and the organizers remodeled it based on other hacker conferences that had come before. The talks at the first event resemble what you might hear today: Talks from lawyers and law enforcement, gender and social issues in technology, technical explainers, and warnings about issues that would manifest in the future. DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith.</p>
 <p>Now in its 27th year, DEF CON draws 25,000-30,000 people and is usually held the first full weekend in August, is unlike typical conventions or trade shows.</p>
 <ul>
