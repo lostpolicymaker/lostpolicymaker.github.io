@@ -18,31 +18,31 @@ The goal is to reduce the barrier to entry for the public policy community (thos
 
 ### Black Hat
 
-when:   August 3-6, 2019 (Trainings)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;August 7-8, 2019 (Briefings)
-where:  Mandalay Bay Conference Center
+when:   August 3-6, 2019 (Trainings)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;August 7-8, 2019 (Briefings)\
+where:  Mandalay Bay Conference Center\
 
-The [Black Hat][https://blackhat.com/us-19] conference was founded in 1997 by the organizers of DEF CON, for a business audience. This event features talks about security issues and approaches that impact enterprises and corporations. Black Hat is much more expensive than the other two events, and draws from a different crowd. However, many Black Hat attendees also attend DEF CON, as the two always run back-to-back. Black Hat draws nearly 20,000 attendees, for trainings and presentations, as well as a large vendor floor. Of the three events, this one feels the most like a traditional conference or convention. Black Hat has grown from a single annual conference in Las Vegas and are held annually in the United States, Europe and Asia.
+The [Black Hat](https://blackhat.com/us-19) conference was founded in 1997 by the organizers of DEF CON, for a business audience. This event features talks about security issues and approaches that impact enterprises and corporations. Black Hat is much more expensive than the other two events, and draws from a different crowd. However, many Black Hat attendees also attend DEF CON, as the two always run back-to-back. Black Hat draws nearly 20,000 attendees, for trainings and presentations, as well as a large vendor floor. Of the three events, this one feels the most like a traditional conference or convention. Black Hat has grown from a single annual conference in Las Vegas and are held annually in the United States, Europe and Asia.
 
 ### BSides Las Vegas
 
-when:   August 6-7, 2019
-where:  Tuscany Hotel and Casino
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Platinum Hotel and Spa
+when:   August 6-7, 2019\
+where:  Tuscany Hotel and Casino\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Platinum Hotel and Spa\
 
-[BSides Las Vegas][https://bsideslv.org] is the original, and one of the largest Security BSides events in the world. Since its founding in 2009, BSides Las Vegas has grown year-over-year, now hosting 3,000 attendees. The Security BSides series of events has seen hundreds of events in hundreds of cities, each run by a dedicated group of volunteers.
+[BSides Las Vegas](https://bsideslv.org) is the original, and one of the largest Security BSides events in the world. Since its founding in 2009, BSides Las Vegas has grown year-over-year, now hosting 3,000 attendees. The Security BSides series of events has seen hundreds of events in hundreds of cities, each run by a dedicated group of volunteers.
 
 The annual two-day event started as an 'un-conference' supporting talks previously rejected by Black Hat, and has since grown to one of the must attend events of the summer. BSides Las Vegas is a source of education, communication, and collaboration. The technical and academic presentations are given in the spirit of peer review and for the dissemination of knowledge among all specialties.
 
 ### DEF CON
 
-when:   August 8-11
-where:  Paris Convention Center
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bally’s Convention Center
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planet Hollywood Convention Center
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flamingo Convention Center
+when:   August 8-11\
+where:  Paris Convention Center\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bally’s Convention Center\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planet Hollywood Convention Center\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flamingo Convention Center\
 
-The [DEF CON][https://defcon.org] conference began in 1993 as a party to celebrate the closing of a popular online network. The party got out of hand before it even started, as dozens of other groups were invited, and the organizers remodeled it based on other hacker conferences that had come before. The talks at the first event resemble what you might hear today: Talks from lawyers and law enforcement, gender and social issues in technology, technical explainers, and warnings about issues that would manifest in the future. DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith.
+The [DEF CON](https://defcon.org) conference began in 1993 as a party to celebrate the closing of a popular online network. The party got out of hand before it even started, as dozens of other groups were invited, and the organizers remodeled it based on other hacker conferences that had come before. The talks at the first event resemble what you might hear today: Talks from lawyers and law enforcement, gender and social issues in technology, technical explainers, and warnings about issues that would manifest in the future. DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith.
 
 Now in its 27th year, DEF CON draws 25,000-30,000 people and is usually held the first full weekend in August, is unlike typical conventions or trade shows.
  * The DEF CON “Villages” are self-contained spaces dedicated to single issues, such as privacy, social engineering, lockpicking, voting machines, and vehicles - that tend toward highly interactive demonstrations and hands-on hacking.
