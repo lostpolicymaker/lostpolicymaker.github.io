@@ -9,10 +9,12 @@ ul {
 
 .biossocial {
   color: #20cfc6;
+  font-size: 0.8em;
 }
 
 .biossocial a {
   color: #20CFC6;
+  font-family: monospace;
 }
 
 .acktitle {

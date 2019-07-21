@@ -787,3 +787,8 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+
+/* Make links a prettier color */
+a {
+  color: #20CFC6;
+}
