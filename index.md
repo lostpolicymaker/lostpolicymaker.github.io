@@ -25,14 +25,6 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 
 <div class="tab-content">
 
-<style>
-table, th, td {
-  border: 0px solid black;
-  border-collapse: collapse;
-  background-color: #fff;
-}
-</style>
-
 <div role="tabpanel" class="tab-pane active" id="blackhat">
 <h3>Black Hat</h3>
 <table border="0">
