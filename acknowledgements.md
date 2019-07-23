@@ -32,10 +32,13 @@ This project is fully volunteer driven. While many dozens of people have provide
 * **Beau Woods** <br /><span class="acktitle">Editor / Coordinating Author</span> <br /> <span class="biossocial"><i class="fab fa-twitter"></i>[@beauwoods](https://twitter.com/beauwoods) / [@iamthecavalry](https://twitter.com/iamthecavalry)
   + Beau wears a lot of hats, all white. He has hacked medical devices, won Best Mustache at Movember London, and evaded Mafiosi near Moscow. Beau is also a leader with I Am The Cavalry, an Atlantic Council Fellow, DEF CON Goon, Village organizer, BSidesLV staff, has a BS in Psychology from Georgia Tech, and lives in DC.
 
-## Designers
-* Julie Munsayac - Graphic Design
-
-## Supporters
-* [Hewlett Foundation](htps://hewlett.org) - Financial and other support
+## Production and other support
+* [Hewlett Foundation](https://hewlett.org) - Financial and other support
 * [I Am The Cavalry](https://iamthecavalry.org) - Production and other support
-
+* Julie Munsayac - Graphic Design
+* [Jeroen DeBakker](https://www.jdebakker.com/cyber-security-2) - Photography
+* [AST Cell](https://hackerphotos.com/index.php?/category/35) - Photography
+* [Cannibal](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20pictures/DEF%20CON%2026%20Cannibal%20pictures/) - Photography
+* [Mr Bot](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20pictures/DEF%20CON%2026%20Mr_Bot%20pictures/) - Photography
+* [Noise](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20pictures/DEF%20CON%2026%20Noise%20pictures/) - Photography
+* [Infosystir](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20pictures/DEF%20CON%2026%20infosystir%20pictures/) - Photography
