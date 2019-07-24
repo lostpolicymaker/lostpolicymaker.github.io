@@ -11,7 +11,7 @@ The Lost Policymaker is a tongue-in-cheek nod to all the great travel guides tha
 
 ## Getting Started
 
-Even for hackers, our first journey to Hacker Summer Camp is often overwhelming. It takes a year or two to figure out how we want to experience the sensory overload. For those not accustomed to hacker culture, it's doubly disorienting. 
+Even for hackers, our first journey to Hacker Summer Camp is often overwhelming. It takes a year or two to figure out how we want to experience the sensory overload. For those not accustomed to hacker culture, it's doubly disorienting.
 
 The goal of the Guide is to reduce the barrier to entry for those in government and the public policy community who are attending Hacker Summer Camp, whether at the federal, state, local, and international levels. To give them the best possible chance to have an authentic, tailored experience there. Even if they end up hating Hacker Summer Camp, they should hate it fairly.
 
@@ -20,9 +20,9 @@ The goal of the Guide is to reduce the barrier to entry for those in government 
 The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferences with very different personalities and demographics. DEF CON, the oldest of the three, draws the largest crowd, largely from the hacker (or security researcher) community. Black Hat is the most like a typical convention, with a large vendor hall and high cost. BSides Las Vegas, the most recent, is a non-profit organization put on by the community, for the community. These events typically take place the first full week in August, and the following weekend.  
 
 <ul id="profileTabs" class="nav nav-tabs">
-    <li class="active"><a href="#blackhat" data-toggle="tab">Black Hat</a></li>
+    <li><a href="#blackhat" data-toggle="tab">Black Hat</a></li>
     <li><a href="#bsideslv" data-toggle="tab">BSides Las Vegas</a></li>
-    <li><a href="#defcon" data-toggle="tab">DEF CON</a></li>
+    <li class="active"><a href="#defcon" data-toggle="tab">DEF CON</a></li>
 </ul>
 
 <div class="tab-content">
