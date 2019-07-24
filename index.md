@@ -73,6 +73,6 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 
 ## Follow and Contribute
 
-Follow the action with [#lostpolicymaker](https://twitter.com/search?q=%23lostpolicymaker) on your favorite social media outlets.
+Follow the action with [#lostpolicymaker](https://twitter.com/search?q=%23lostpolicymaker) and [#defconpolicy](https://twitter.com/search?q=%23defconpolicy) on your favorite social media outlets.
 
 Contribute content on the [GitHub repository](https://github.com/lostpolicymaker/lostpolicymaker.github.io) by opening issues or making pull requests.
