@@ -79,7 +79,7 @@ author:
 #   email: "someone@example.com"
 #   facebook: deanattali
 #   github: daattali
-#   twitter: lostpolicymaker
+   twitter: lostpolicymaker
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -95,7 +95,7 @@ author:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
+  twitter: true
   facebook: false
   linkedin: false
 
