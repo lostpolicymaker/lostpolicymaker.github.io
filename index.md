@@ -27,7 +27,7 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 
 <div class="tab-content">
 
-<div role="tabpanel" class="tab-pane active" id="blackhat">
+<div role="tabpanel" class="tab-pane" id="blackhat">
 <h3>Black Hat</h3>
 <table border="0">
 <tr><td>when:</td><td>August 3-6, 2019 (Trainings)</td></tr>
@@ -48,7 +48,7 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 <p>The annual two-day event started as an 'un-conference' supporting talks previously rejected by Black Hat, and has since grown to one of the must attend events of the summer. BSides Las Vegas is a source of education, communication, and collaboration. The technical and academic presentations are given in the spirit of peer review and for the dissemination of knowledge among all specialties.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="defcon">
+<div role="tabpanel" class="tab-pane active" id="defcon">
 <h3>DEF CON</h3>
 <table border="0">
 <tr><td>when:</td><td>August 8-11, 2019</td></tr>
