@@ -71,6 +71,34 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 
 </div>
 
+## More Resources
+
+Try as we might, we can't be everything to everyone. Fortunately, we know people. ;) Here are some more research resources for your journey to Hacker Summer Camp.
+
+### BlackHat Resources
+* [Schedule (Trainings)](https://www.blackhat.com/us-19/training/schedule/index.html)
+* [Schedule (Briefings)](https://www.blackhat.com/us-19/briefings/schedule/index.html)
+* [Schedule (Arsenal)](https://www.blackhat.com/us-19/arsenal/schedule/index.html)
+* [Business Hall](https://www.blackhat.com/us-19/business-hall.html)
+
+### BSidesLV Resources
+* [Schedule (Interactive)](https://www.bsideslv.org/schedule-2/)
+* [Schedule (At-A-Glance)](https://www.bsideslv.org/wp-content/uploads/2019/07/20190719_BSLV2019_schedule_grid_WEB.pdf)
+* [Map](https://www.bsideslv.org/conference-map/)
+
+### DEF CON Resources
+* [Talk Schedule](https://www.defcon.org/html/defcon-27/dc-27-schedule.html#Thursday)
+* [Villages](https://www.defcon.org/html/defcon-27/dc-27-villages.html)
+* [Official Parties](https://www.defcon.org/html/defcon-27/dc-27-parties.html)
+* [Contests and Events](https://www.defcon.org/html/defcon-27/dc-27-ce.html)
+* [Maps](https://www.defcon.org/html/defcon-27/dc-27-venue.html)
+* [DEF CON Forums](https://forum.defcon.org/node/227570)
+
+### Unofficial Guides
+* The always excellent [DEF CON Parties](http://defconparties.com) is **the** go-to source for all the parties throughout the week.
+* Check out the excellent and very detailed, [Hacker Summer Camp Survival Guide](https://github.com/Shad0w-Synd1cate/Hacker-Summer-Camp-Survival-Guide/blob/master/The_Hacker_Summer_Camp_Survival_Guide.pdf) by [Shad0w-Synd1cate](https://www.meetup.com/Cyber-Security-and-IT-Computer-Group-of-Las-Vegas/), written by [Collin Montenegro](https://twitter.com/_Unkn0wn1) and [Alexander Delgado](https://twitter.com/0xalexdelgado).
+* [This DEF CON Village guide](http://defcon.outel.org/), compiled by [Joel M. Baldwin](https://twitter.com/qumqats) will overwhelm you with information, yet it's a great resource for those who want all their info in one place.
+
 ## Follow and Contribute
 
 Follow the action with [#lostpolicymaker](https://twitter.com/search?q=%23lostpolicymaker) and [#defconpolicy](https://twitter.com/search?q=%23defconpolicy) on your favorite social media outlets.
