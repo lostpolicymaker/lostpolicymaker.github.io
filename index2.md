@@ -35,14 +35,6 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 <tr><td>where:</td><td>Mandalay Bay Conference Center</td></tr>
 </table>
 <p>The <a href="https://blackhat.com/us-19">Black Hat</a> conference was founded in 1997 by the organizers of DEF CON, for a business audience. This event features talks about security issues and approaches that impact enterprises and corporations. Black Hat is much more expensive than the other two events, and draws from a different crowd. However, many Black Hat attendees also attend DEF CON, as the two always run back-to-back. Black Hat draws nearly 20,000 attendees, for trainings and presentations, as well as a large vendor floor. Of the three events, this one feels the most like a traditional conference or convention. Black Hat has grown from a single annual conference in Las Vegas and are held annually in the United States, Europe and Asia.</p>
-
-<ul>
-  <li><a href="https://www.blackhat.com/us-19/training/schedule/index.html">Schedule (Trainings)</a></li>
-  <li><a href="https://www.blackhat.com/us-19/briefings/schedule/index.html">Schedule (Briefings)</a></li>
-  <li><a href="https://www.blackhat.com/us-19/arsenal/schedule/index.html">Schedule (Arsenal)</a></li>
-  <li><a href="https://www.blackhat.com/us-19/business-hall.html">Business Hall</a></li>
-</ul>
-
 </div>
 
 <div role="tabpanel" class="tab-pane" id="bsideslv">
@@ -54,13 +46,6 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 </table>
 <p><a href="https://bsideslv.org">BSides Las Vegas</a> is the original, and one of the largest Security BSides events in the world. Since its founding in 2009, BSides Las Vegas has grown year-over-year, now hosting 3,000 attendees. The Security BSides series of events has seen hundreds of events in hundreds of cities, each run by a dedicated group of volunteers.</p>
 <p>The annual two-day event started as an 'un-conference' supporting talks previously rejected by Black Hat, and has since grown to one of the must attend events of the summer. BSides Las Vegas is a source of education, communication, and collaboration. The technical and academic presentations are given in the spirit of peer review and for the dissemination of knowledge among all specialties.</p>
-
-<ul>
-  <li><a href="https://www.bsideslv.org/schedule-2/">Schedule (Interactive)</a></li>
-  <li><a href="https://www.bsideslv.org/wp-content/uploads/2019/07/20190719_BSLV2019_schedule_grid_WEB.pdf">Schedule (At-A-Glance PDF)</a></li>
-  <li><a href="https://www.bsideslv.org/conference-map/">Conference Map</a></li>
-</ul>
-
 </div>
 
 <div role="tabpanel" class="tab-pane active" id="defcon">
@@ -82,16 +67,6 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 <li>The art and effort that have gone into the official badges have spawned a cultural trend called <a href="https://twitter.com/hashtag/badgelife">#badgelife</a>, where dozens of unofficial electronic badges and digital ecosystems have sprung up. Badgelife describes the grueling experience of creating a piece of hardware from concept to completion in 8-10 months.</li>
 </ul>
 <p> The <a href="http://bit.ly/DCPolicyReg">DEF CON Policy Passport</a> is like a "fast pass" for the conference, allowing members of the public policy community to register with dedicated support and orientation tools to help out.</p>
-
-<ul>
-  <li><a href="https://www.defcon.org/html/defcon-27/dc-27-schedule.html">Official Talk Schedule</a></li>
-  <li><a href="https://www.defcon.org/html/defcon-27/dc-27-parties.html">Official Parties</a></li>
-  <li><a href="https://www.defcon.org/html/defcon-27/dc-27-ce.html">Official Contests and Events</a></li>
-  <li><a href="https://www.defcon.org/html/defcon-27/dc-27-villages.html">Villages</a></li>
-  <li><a href="https://www.defcon.org/html/defcon-27/dc-27-venue.html">Conference Maps</a></li>
-  <li><a href="https://forum.defcon.org/node/227570">DEF CON Forums</a></li>
-</ul>
-
 </div>
 
 </div>
@@ -99,6 +74,25 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 ## More Resources
 
 Try as we might, we can't be everything to everyone. Fortunately, we know people. ;) Here are some more research resources for your journey to Hacker Summer Camp.
+
+### BlackHat Resources
+* [Schedule (Trainings)](https://www.blackhat.com/us-19/training/schedule/index.html)
+* [Schedule (Briefings)](https://www.blackhat.com/us-19/briefings/schedule/index.html)
+* [Schedule (Arsenal)](https://www.blackhat.com/us-19/arsenal/schedule/index.html)
+* [Business Hall](https://www.blackhat.com/us-19/business-hall.html)
+
+### BSidesLV Resources
+* [Schedule (Interactive)](https://www.bsideslv.org/schedule-2/)
+* [Schedule (At-A-Glance)](https://www.bsideslv.org/wp-content/uploads/2019/07/20190719_BSLV2019_schedule_grid_WEB.pdf)
+* [Map](https://www.bsideslv.org/conference-map/)
+
+### DEF CON Resources
+* [Talk Schedule](https://www.defcon.org/html/defcon-27/dc-27-schedule.html#Thursday)
+* [Villages](https://www.defcon.org/html/defcon-27/dc-27-villages.html)
+* [Official Parties](https://www.defcon.org/html/defcon-27/dc-27-parties.html)
+* [Contests and Events](https://www.defcon.org/html/defcon-27/dc-27-ce.html)
+* [Maps](https://www.defcon.org/html/defcon-27/dc-27-venue.html)
+* [DEF CON Forums](https://forum.defcon.org/node/227570)
 
 ### Unofficial Guides
 * The always excellent [DEF CON Parties](http://defconparties.com) is **the** go-to source for all the parties throughout the week.
