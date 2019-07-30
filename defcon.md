@@ -30,9 +30,11 @@ The [DEF CON Policy Passport](http://bit.ly/DCPolicyReg) is like a "fast pass" f
 >“DEF CON is a hacker con, not an InfoSec conference. Hackers are more focused on the joy of discovery, irreverence, novel if impractical approaches. They are makers *and* breakers. InfoSec is more focused on enterprise, frameworks, and protecting the interests of share holders. There is great value in both types of content, but our con is a hacker con by design.”
 
 >How did DEF CON start?
+>
 >Originally started in 1993, it was a meant to be a party for member of "Platinum Net", a Fido protocol based hacking network out of Canada. As the main U.S. hub I was helping the Platinum Net organizer (I forget his name) plan a closing party for all the member BBS systems and their users. He was going to shut down the network when his dad took a new job and had to move away. We talking about where we might hold it, when all of a sudden he left early and disappeared. I was just planning a party for a network that was shut down, except for my U.S. nodes. I decided what the hell, I'll invite the members of all the other networks my BBS (A Dark Tangent System) system was a part of including Cyber Crime International (CCI), Hit Net, Tired of Protection (ToP), and like 8 others I can't remember. Why not invite everyone on #hack? Good idea!
 
 >Where did the name come from?
+>
 >The short answer is a combination of places. There as a SummerCon in the summer, a HoHoCon in the winter, a PumpCon during Halloween, etc. I didn't want any association with a time of year. If you are a Phreak, or just use your phone a lot you'll notes "DEF" is #3 on the phone. If you are into military lingo DEF CON is short for "Defense Condition." Now being a fan of the movie War Games I took note that the main character, David Lightman, lived in Seattle, as I do, and chose to nuke Las Vegas with W.O.P.R. when given the chance. Well I knew I was doing a con in Vegas, so it all just sort of worked out.
 
 
