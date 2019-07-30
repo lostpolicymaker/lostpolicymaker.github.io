@@ -106,10 +106,10 @@ url-pretty: "lostpolicymaker.org"  # eg. "deanattali.com/beautiful-jekyll"
 gtag: "GTM-56D6KN8"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-144208075-1"
+#google_analytics: "UA-144208075-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-56D6KN8"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
