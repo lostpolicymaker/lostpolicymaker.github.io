@@ -19,6 +19,7 @@ The 11th annual [BSides Las Vegas](https://bsideslv.org) (or BSidesLV) conferenc
 
 The conference always has more demand than space, so for 2019 they’ve moved to a pre-reservation system. Those who donate before the event will get a badge, and the event is expected to reach capacity soon after the donations open. But don’t lose hope! The **I Am The Cavalry** and **Public Ground** tracks have hacked the badge system so anyone can join, and feature public policy topics.
 
+#### In their own words
 >BSides Las Vegas is an Information / Security conference that’s different. We’re a volunteer organized event, put on by and for the community, and we truly strive to keep information free.
 >
 >There is no charge to the public to attend BSidesLV. Our costs are covered by our generous donors and sponsors who share our vision of free dissemination of information.

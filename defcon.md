@@ -27,6 +27,7 @@ Now in its 27th year, DEF CON draws 25,000-30,000 people and is usually held the
 
 The [DEF CON Policy Passport](http://bit.ly/DCPolicyReg) is like a "fast pass" for the conference, allowing members of the public policy community to register with dedicated support and orientation tools to help out.
 
+#### In their own words
 >“DEF CON is a hacker con, not an InfoSec conference. Hackers are more focused on the joy of discovery, irreverence, novel if impractical approaches. They are makers *and* breakers. InfoSec is more focused on enterprise, frameworks, and protecting the interests of share holders. There is great value in both types of content, but our con is a hacker con by design.”
 
 >How did DEF CON start?
