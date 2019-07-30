@@ -5,7 +5,7 @@ subtitle: to safety and security at Hacker Summer Camp
 use-site-title: true
 ---
 
-The Lost Policymaker worked with [Marc Rogers](), head of DEF CON physical and network security for the past decade, to cut through the FUD (Fear, Uncertainty, and Doubt) about security and safety at Hacker Summer Camp. There's a lot of [#baddefconadvice]() out there to avoid, but not much recent, authoritative guidance on what really works to keep you safe and secure.
+The Lost Policymaker worked with [Marc Rogers](http://marcrogers.org) ([@marcwrogers](https://twitter.com/marcwrogers)), head of DEF CON physical and network security for the past decade, to cut through the FUD (Fear, Uncertainty, and Doubt) about security and safety at Hacker Summer Camp. There's a lot of [#baddefconadvice](https://twitter.com/search?q=baddefconadvice) out there to avoid, but not much recent, authoritative guidance on what really works to keep you safe and secure.
 
 ### Safety and security at Hacker Summer Camp
 **Money and finances.** While Las Vegas casinos would love to extend you a line of credit, the hacker conferences that take place there don’t always accept credit cards. Many of the independent vendors that sell swag (souvenirs like clothing), electronic badges, and tools, sometimes find it troublesome to deal with credit cards. Casino ATMs may be the world’s most monitored cash points, and are official ones are generally safe, though they may be down in the immediate area of the conferences, victims of their own insecurity or network problems. Avoid ATMs that look unusual or temporary.
