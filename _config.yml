@@ -21,12 +21,12 @@ description: A resource for public policy community attending hacker conferences
 # List of links in the navigation bar
 navbar-links:
   The Guide: "LostPolicymaker_HackerSummerCamp_2019.pdf?guide=HackerSummerCamp2019"
-  Acknowledgements: "acknowledgements"
+  Safety and Security: "https://lostpolicymaker.org/safetysecurity"
   Conference Information:
     - Black Hat: "https://lostpolicymaker.org/blackhat/"
     - DEF CON: "https://lostpolicymaker.org/defcon/"
     - BSides Las Vegas: "https://https://lostpolicymaker.org/bsideslv/"
-  Safety and Security: "https://lostpolicymaker.org/safetysecurity"
+  Acknowledgements: "acknowledgements"
   # Author's home: "http://deanattali.com"
 
 
