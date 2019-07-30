@@ -6,9 +6,11 @@ use-site-title: true
 ---
 
 ### BSidesLV Logistics
-` when:  August 6-7, 2019
-  where: Tuscany Hotel and Casino
-         Platinum Hotel and Spa `
+```
+when:  August 6-7, 2019
+where: Tuscany Hotel and Casino
+       Platinum Hotel and Spa
+```
 
 ### BSidesLV Overview
 [BSides Las Vegas](https://bsideslv.org) (or BSidesLV) is the original, and still the largest Security BSides event in the world. Since its founding in 2009, BSides Las Vegas has grown year-over-year, now hosting 3,000 attendees. The Security BSides series of non-commercial conferences has seen hundreds of events in hundreds of cities, each run by a dedicated group of volunteers.
