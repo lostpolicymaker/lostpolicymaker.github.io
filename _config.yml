@@ -20,16 +20,13 @@ description: A resource for public policy community attending hacker conferences
 
 # List of links in the navigation bar
 navbar-links:
+  The Guide: "LostPolicymaker_HackerSummerCamp_2019.pdf?guide=HackerSummerCamp2019"
   Acknowledgements: "acknowledgements"
   Conference Information:
-    - Black Hat Briefings: "https://www.blackhat.com/us-19/briefings/schedule/index.html"
-    - Black Hat Arsenal: "https://www.blackhat.com/us-19/arsenal/schedule/index.html"
-    - BSides Las Vegas Schedule: "https://www.bsideslv.org/schedule-2/"
-    - BSides Las Vegas Map: "https://www.bsideslv.org/conference-map/"
-    - DEF CON Schedule: "https://defcon.org/html/defcon-27/dc-27-schedule.html"
-    - DEF CON Map: "https://defcon.org/html/defcon-27/dc-27-venue.html"
-    - DEF CON Policy Passport: "http://bit.ly/DCPolicyReg"
-  The Guide: "LostPolicymaker_HackerSummerCamp_2019.pdf?guide=HackerSummerCamp2019"
+    - Black Hat: "https://lostpolicymaker.org/blackhat/"
+    - DEF CON: "https://lostpolicymaker.org/defcon/"
+    - BSides Las Vegas: "https://https://lostpolicymaker.org/bsideslv/"
+  Safety and Security: "https://lostpolicymaker.org/safetysecurity"
   # Author's home: "http://deanattali.com"
 
 
