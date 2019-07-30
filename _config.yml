@@ -103,13 +103,13 @@ url-pretty: "lostpolicymaker.org"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: "GTM-56D6KN8"
+gtag: "GTM-56D6KN8"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: "UA-144208075-1"
 
 # Google Tag Manager ID
-gtm: "GTM-56D6KN8"
+#gtm: "GTM-56D6KN8"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
