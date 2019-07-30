@@ -1,17 +1,27 @@
 ---
 layout: page
-title: Lost Policymaker's Guide
+title: Lost Policymaker
 subtitle: Overview of Black Hat US 2019
 use-site-title: true
 ---
 
 ### Black Hat Logistics
-| when:  | August 3-6, 2019 (Trainings)   |
-| &nbsp; | August 7-8, 2019 (Briefings)   |
-| where: | Mandalay Bay Convention Center |
+```
+ when: August 3-6, 2019 (Trainings)
+       August 7-8, 2019 (Briefings)
+where: Mandalay Bay Convention Center
+```
 
 ### Black Hat Overview
-The [Black Hat](https://blackhat.com/us-19) conference was founded in 1997 by the organizers of DEF CON, for a business audience. This event features talks about security issues and approaches that impact enterprises and corporations. Black Hat is much more expensive than the other two events, and draws from a different crowd. However, many Black Hat attendees also attend DEF CON, as the two always run back-to-back. Black Hat draws nearly 20,000 attendees, for trainings and presentations, as well as a large vendor floor. Of the three events, this one feels the most like a traditional conference or convention. Black Hat has grown from a single annual conference in Las Vegas and are held annually in the United States, Europe and Asia.
+
+Black Hat](https://blackhat.com/us-19) was created more than 20 years ago to provide security professionals a place to learn the very latest in information security risks, research and trends. The Black Hat conference was created in response to security professionals who, previously, were unable to attend DEFCON due to social stigma associated with the conference. Today, that is not the case. Two cultures prevail in both DEFCON and Black Hat, and Black Hat is viewed as the corporate junior to it’s older, free-spirited sibling.
+
+The conference offers two sections - Briefings and Trainings, and is viewed as a corporate security conference unlike DEFCON. Each year, internationally leading security researchers take the stage to share their latest work and exploits in a friendly, vendor-neutral environment. Vulnerabilities are often exposed that impact everything from popular consumer devices to critical international infrastructure and everything in between. Black Hat seeks groundbreaking research to fill both 25 and 50-minute speaking slots for each annual show.
+
+Black Hat Trainings offer attendees individual technical courses on topics ranging from the latest in penetration testing to exploiting web applications and even defending and building SCADA systems. Often designed exclusively for Black Hat, these hands-on attack and defense courses are taught by industry and subject matter experts from all over the world with the goal of defining and defending tomorrow's information security landscape.
+
+From its inception in 1997, Black Hat has grown from a single annual conference in Las Vegas to a conference series held annually in the United States, Europe and Asia.
+
 
 ### BlackHat Resources
 * [Schedule (Trainings)](https://www.blackhat.com/us-19/training/schedule/index.html)
