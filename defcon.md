@@ -39,6 +39,13 @@ The [DEF CON Policy Passport](http://bit.ly/DCPolicyReg) is like a "fast pass" f
 >
 >The short answer is a combination of places. There as a SummerCon in the summer, a HoHoCon in the winter, a PumpCon during Halloween, etc. I didn't want any association with a time of year. If you are a Phreak, or just use your phone a lot you'll notes "DEF" is #3 on the phone. If you are into military lingo DEF CON is short for "Defense Condition." Now being a fan of the movie War Games I took note that the main character, David Lightman, lived in Seattle, as I do, and chose to nuke Las Vegas with W.O.P.R. when given the chance. Well I knew I was doing a con in Vegas, so it all just sort of worked out.
 
+>Do criminals go to DEF CON?
+>
+>Yes. They also go to high school, college, work in your workplace, and the government. There are also lawyers, law enforcement agents, civil libertarians, cryptographers, and hackers in attendance. Ssshhh. Don't tell anyone.
+
+>What are Goons?
+>
+>They are the staff at DEF CON. They have many roles including safety, speaker coordination, vendor room coordination, network operations, et cetera... Please try to be helpful to them if they make requests of you. If any goon tells you to move, please do so immediately as there may be safety issues they are attempting to address.
 
 ### DEF CON Resources
 * [DEF CON Talk Schedule](https://www.defcon.org/html/defcon-27/dc-27-schedule.html#Thursday)
