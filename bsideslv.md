@@ -13,7 +13,7 @@ where: Tuscany Hotel and Casino
      tweet: @bsideslv
 ```
 
-### BSidesLV Overview
+### BSides Las Vegas Overview
 
 The 11th annual [BSides Las Vegas](https://bsideslv.org) ([@bsideslv](https://twitter.com/bsideslv)) conference will take place August 6-7, 2019 at the Tuscany Hotel & Casino. At about 3,000 participants, it is the smallest of the three conferences this week. Sometimes called the “Vegas Hacker Family Reunion,” because it draws the old school (who skip out on BlackHat), the new faces (there to learn), and everyone in between, in a warm and friendly environment. It is a 501(c)3 non-profit organization, organized and run by volunteers, funded by individual, corporate, and philanthropic donations. The first event in 2009 spawned a global movement, catalyzing events across the globe with over 300 conferences to date in over 26 countries.
 
@@ -30,7 +30,7 @@ The conference always has more demand than space, so for 2019 they’ve moved to
 
 BSides Las Vegas consists of several themed tracks, several of which have unique formats. The three tracks of interest to the public policy community are **Hire Ground**, **I Am The Cavalry**, and **Public Ground**. Hire Ground, is organized by a Virginia-based company that organizes hiring events for federal government employees and contractors. **I Am The Cavalry** runs an eponymous track, focused on cybersecurity impacts on human life and public safety, frequently addressing topics of interest to policymakers and others. **Public Ground** is a space for public policy conversations and interactions, with in-depth conversations that bridge the gap between policy and technology communities.
 
-### BSidesLV Resources
-* [Schedule (Interactive)](https://www.bsideslv.org/schedule-2/)
-* [Schedule (At-A-Glance)](https://www.bsideslv.org/wp-content/uploads/2019/07/20190719_BSLV2019_schedule_grid_WEB.pdf)
-* [Map](https://www.bsideslv.org/conference-map/)
+### BSides Las Vegas Resources
+* [BSides Las Vegas Interactive Schedule](https://www.bsideslv.org/schedule-2/)
+* [BSides Las Vegas Schedule At-A-Glance](https://www.bsideslv.org/wp-content/uploads/2019/07/20190719_BSLV2019_schedule_grid_WEB.pdf)
+* [BSides Las Vegas Map](https://www.bsideslv.org/conference-map/)

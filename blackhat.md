@@ -24,8 +24,8 @@ Black Hat Trainings offer attendees individual technical courses on topics rangi
 From its inception in 1997, Black Hat has grown from a single annual conference in Las Vegas to a conference series held annually in the United States, Europe and Asia.
 
 
-### BlackHat Resources
-* [Schedule (Trainings)](https://www.blackhat.com/us-19/training/schedule/index.html)
-* [Schedule (Briefings)](https://www.blackhat.com/us-19/briefings/schedule/index.html)
-* [Schedule (Arsenal)](https://www.blackhat.com/us-19/arsenal/schedule/index.html)
-* [Business Hall](https://www.blackhat.com/us-19/business-hall.html)
+### Black Hat Resources
+* [Black Hat Schedule (Trainings)](https://www.blackhat.com/us-19/training/schedule/index.html)
+* [Black Hat Schedule (Briefings)](https://www.blackhat.com/us-19/briefings/schedule/index.html)
+* [Black Hat Schedule (Arsenal)](https://www.blackhat.com/us-19/arsenal/schedule/index.html)
+* [Black Hat Business Hall](https://www.blackhat.com/us-19/business-hall.html)

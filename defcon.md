@@ -41,9 +41,9 @@ The [DEF CON Policy Passport](http://bit.ly/DCPolicyReg) is like a "fast pass" f
 
 
 ### DEF CON Resources
-* [Talk Schedule](https://www.defcon.org/html/defcon-27/dc-27-schedule.html#Thursday)
-* [Villages](https://www.defcon.org/html/defcon-27/dc-27-villages.html)
-* [Official Parties](https://www.defcon.org/html/defcon-27/dc-27-parties.html)
-* [Contests and Events](https://www.defcon.org/html/defcon-27/dc-27-ce.html)
-* [Maps](https://www.defcon.org/html/defcon-27/dc-27-venue.html)
+* [DEF CON Talk Schedule](https://www.defcon.org/html/defcon-27/dc-27-schedule.html#Thursday)
+* [DEF CON Villages](https://www.defcon.org/html/defcon-27/dc-27-villages.html)
+* [Official DEF CON Parties](https://www.defcon.org/html/defcon-27/dc-27-parties.html)
+* [DEF CON Contests and Events](https://www.defcon.org/html/defcon-27/dc-27-ce.html)
+* [DEF CON Maps](https://www.defcon.org/html/defcon-27/dc-27-venue.html)
 * [DEF CON Forums](https://forum.defcon.org/node/227570)
