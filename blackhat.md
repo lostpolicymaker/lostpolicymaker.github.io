@@ -5,16 +5,17 @@ subtitle: Overview of Black Hat US 2019
 use-site-title: true
 ---
 
-### Black Hat Logistics
 ```
  when: August 3-6, 2019 (Trainings)
        August 7-8, 2019 (Briefings)
 where: Mandalay Bay Convention Center
+  web: https://blackhat.com/us-19
+tweet: @BlackHatEvents
 ```
 
 ### Black Hat Overview
 
-Black Hat](https://blackhat.com/us-19) was created more than 20 years ago to provide security professionals a place to learn the very latest in information security risks, research and trends. The Black Hat conference was created in response to security professionals who, previously, were unable to attend DEFCON due to social stigma associated with the conference. Today, that is not the case. Two cultures prevail in both DEFCON and Black Hat, and Black Hat is viewed as the corporate junior to it’s older, free-spirited sibling.
+[Black Hat](https://blackhat.com/us-19) ([@BlackHatEvents](https://twitter.com/blackhatevents)) was created more than 20 years ago to provide security professionals a place to learn the very latest in information security risks, research and trends. The Black Hat conference was created in response to security professionals who, previously, were unable to attend DEFCON due to social stigma associated with the conference. Today, that is not the case. Two cultures prevail in both DEFCON and Black Hat, and Black Hat is viewed as the corporate junior to it’s older, free-spirited sibling.
 
 The conference offers two sections - Briefings and Trainings, and is viewed as a corporate security conference unlike DEFCON. Each year, internationally leading security researchers take the stage to share their latest work and exploits in a friendly, vendor-neutral environment. Vulnerabilities are often exposed that impact everything from popular consumer devices to critical international infrastructure and everything in between. Black Hat seeks groundbreaking research to fill both 25 and 50-minute speaking slots for each annual show.
 

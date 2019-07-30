@@ -5,17 +5,18 @@ subtitle: Overview of DEF CON XXVIII
 use-site-title: true
 ---
 
-### DEF CON Logistics
 ```
  when: August 8-11, 2019
 where: Paris Convention Center
        Bally’s Convention Center
        Planet Hollywood Convention Center
        Flamingo Convention Center
+  web: https://defcon.org
+tweet: @defcon
 ```
 
 ### DEF CON Overview
-The [DEF CON](https://defcon.org) conference began in 1993 as a party to celebrate the closing of a popular online network. The party got out of hand before it even started, as dozens of other groups were invited, and the organizers remodeled it based on other hacker conferences that had come before. The talks at the first event resemble what you might hear today: Talks from lawyers and law enforcement, gender and social issues in technology, technical explainers, and warnings about issues that would manifest in the future. DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith.
+The [DEF CON](https://defcon.org) ([@defcon](https://twitter.com/defcon)) conference began in 1993 as a party to celebrate the closing of a popular online network. The party got out of hand before it even started, as dozens of other groups were invited, and the organizers remodeled it based on other hacker conferences that had come before. The talks at the first event resemble what you might hear today: Talks from lawyers and law enforcement, gender and social issues in technology, technical explainers, and warnings about issues that would manifest in the future. DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith.
 
 Now in its 27th year, DEF CON draws 25,000-30,000 people and is usually held the first full weekend in August, is unlike typical conventions or trade shows.
 
