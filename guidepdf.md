@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: embed
 use-site-title: true
 ---
 
