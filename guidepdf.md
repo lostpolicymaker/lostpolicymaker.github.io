@@ -5,6 +5,4 @@ subtitle:
 use-site-title: false
 ---
 
-<div>
-  <embed src="https://lostpolicymaker.org/LostPolicymaker_HackerSummerCamp_2019.pdf" type="application/pdf" width="100%" height="100%">
-</div>
+<iframe src="https://drive.google.com/file/d/13QjP6pjfdxlYrTQ7csr2w8DwGjWBeepX/preview" width="640" height="480"></iframe>
