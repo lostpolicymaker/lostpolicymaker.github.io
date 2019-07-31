@@ -1,5 +1,5 @@
 ---
-layout: pdf
+layout: page
 title: Lost Policymaker's Guide to Hacker Summer Camp, 2019
 subtitle:
 use-site-title: false
