@@ -1,0 +1,33 @@
+---
+common-css:
+  - "/css/bootstrap.min.css"
+  - "/css/main-minimal.css"
+common-js:
+  - "/js/jquery-1.11.2.min.js"
+  - "/js/bootstrap.min.js"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Based on beautiful Jekyll | MIT license | Copyright Dean Attali 2016 !-->
+  <!-- Modified to embed files in a clean, sleek page !-->
+  <!-- More on embedding documents here: https://getbootstrap.com/docs/4.0/utilities/embed/ !-->
+
+  {% include head.html %}
+
+  <div role="main" class="container">
+
+    {% include gtm_body.html %}
+
+    {% include nav.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    {% include footer-scripts.html %}
+
+  </div>
+
+  </body>
+</html>
