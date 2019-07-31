@@ -1,5 +1,28 @@
 ---
-layout: base
+#common-css:
+#  - "/css/bootstrap.min.css"
+#  - "/css/main-minimal.css"
+#common-js:
+#  - "/js/jquery-1.11.2.min.js"
+#  - "/js/bootstrap.min.js"
 ---
 
-{{ content }}
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Based on beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  {% include head.html %}
+
+  <body>
+
+    {% include gtm_body.html %}
+
+    {% include nav.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    {% include footer-scripts.html %}
+
+  </body>
+</html>
