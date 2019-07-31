@@ -20,7 +20,7 @@ description: A resource for public policy community attending hacker conferences
 
 # List of links in the navigation bar
 navbar-links:
-  The Guide: "LostPolicymaker_HackerSummerCamp_2019.pdf?guide=HackerSummerCamp2019"
+  The Guide: "guide"
   Safety and Security: "safetysecurity"
   Conference Information:
     - Black Hat: "blackhat"
