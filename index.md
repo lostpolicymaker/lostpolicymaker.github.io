@@ -5,7 +5,7 @@ subtitle: Guide to Hacker Summer Camp
 use-site-title: true
 ---
 
-<a href="guide"><img src="LostPolicymaker_HackerSummerCamp_2019.png" align="top" align="right" style="max-width: 33%" alt="Download The Lost Policymaker's Guide to Hacker Summer Camp, 2019"></a>
+<a href="guide"><img src="LostPolicymaker_HackerSummerCamp_2019.png" align="top" align="right" style="max-width: 33%" border="2px" alt="Download The Lost Policymaker's Guide to Hacker Summer Camp, 2019"></a>
 Attending BSides Las Vegas, Black Hat, and/or DEF CON for the first time this year and feeling confused or overwhelmed? The inaugural [Lost Policymaker's Guide to Hacker Summer Camp](guide) helps those in the policy field more quickly gain their footing at the events and understand hacker ethos and culture.
 
 The Lost Policymaker is a tongue-in-cheek nod to all the great travel guides that have given aid and comfort to those who seek new experiences in unknown spaces. We hope it will serve you in the same capacity as you travel through hacker conferences in the Las Vegas desert, affectionately known as Hacker Summer Camp.
