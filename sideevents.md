@@ -27,7 +27,7 @@ Side events have a longstanding tradition at Hacker Summer Camp. Some, like [Cod
 
 It may surprise you, but some lawyers are also hackers (and vice-versa) and have been attending DEF CON for a long time. Attending lawyers practice in varying capacities: private practice, public non-profits, government, and solo-practitioners. Each year the lawyers organize to catch up, talk shop, and network. All lawyers or legal professionals are welcome to join!
 
-###Diana Initiative
+### Diana Initiative
 
 `August 8-11, 2019 - Westin Hotel`
 The [Diana Initiative](https://dianainitiative.org) ([@dianainitiative](https://twitter.com/dianainitiative)) founded in 2015, focuses on increasing representation of women and non-binary people in the information security community. It provides scholarships for those groups to attend DEF CON, and hosts an event nearby, with two speaking tracks, villages, workshops, and a capture the flag.
