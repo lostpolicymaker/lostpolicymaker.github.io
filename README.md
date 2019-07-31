@@ -6,6 +6,6 @@ The Lost Policymaker is a tongue-in-cheek nod to all the great travel guides tha
 
 Even for hackers, our first journey to Hacker Summer Camp is often overwhelming. It takes a year or two to figure out how we want to experience the sensory overload. For those not accustomed to hacker culture, it's doubly disorienting.
 
-The inaugural [Lost Policymaker's Guide to Hacker Summer Camp](https://lostpolicymaker.org/LostPolicymaker_HackerSummerCamp_2019.pdf) helps those in the policy field more quickly gain their footing at the events and understand hacker ethos and culture. Guiding new attendees gives them the best possible chance for an authentic experience the first time at Hacker Summer Camp - even if they hate it.
+The inaugural [Lost Policymaker's Guide to Hacker Summer Camp](guide) helps those in the policy field more quickly gain their footing at the events and understand hacker ethos and culture. Guiding new attendees gives them the best possible chance for an authentic experience the first time at Hacker Summer Camp - even if they hate it.
 
 Follow the action with #lostpolicymaker on your favorite social media outlets.
