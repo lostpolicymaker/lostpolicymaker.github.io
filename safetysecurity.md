@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lost Policymaker's Guide
-subtitle: to safety and security at Hacker Summer Camp
+title: Lost Policymaker
+subtitle: Safety and security at Hacker Summer Camp
 use-site-title: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lost Policymaker's Guide
-subtitle: to Hacker Summer Camp
+title: Lost Policymaker
+subtitle: Guide to Hacker Summer Camp
 use-site-title: true
 ---
 
