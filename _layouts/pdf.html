@@ -1,15 +1,28 @@
 ---
-
+common-css:
+  - "/css/bootstrap.min.css"
+  - "/css/main-minimal.css"
+common-js:
+  - "/js/jquery-1.11.2.min.js"
+  - "/js/bootstrap.min.js"
 ---
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en" style="width:100%; height:100%;">
 
+  <!-- Based on beautiful Jekyll | MIT license | Copyright Dean Attali 2016 !-->
+
+  {% include head.html %}
+
   <body style="width:100%; height:100%; margin:0;">
 
+  {% include gtm_body.html %}
 
-    {{ content }}
+  {{ content }}
 
+  {% include footer.html %}
+
+  {% include footer-scripts.html %}
 
   </body>
 </html>
