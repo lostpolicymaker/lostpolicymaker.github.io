@@ -3,7 +3,7 @@ layout: embed
 use-site-title: true
 ---
 
-<center><a href="https://lostpolicymaker.org/LostPolicymaker_HackerSummerCamp_2019.pdf" class="btn btn-default" role="button">Download the Guide</a></center>
+<center><a href="https://lostpolicymaker.org/LostPolicymaker_HackerSummerCamp_2019.pdf" class="btn btn-outline-dark" type="button">Download the Guide</a></center>
 
 <p></p>
 

@@ -20,17 +20,23 @@ description: A resource for public policy community attending hacker conferences
 
 # List of links in the navigation bar
 navbar-links:
-  The Guide: "guide"
-  Safety and Security: "safetysecurity"
-  Conference Information:
-    - Black Hat: "blackhat"
-    - DEF CON: "defcon"
-    - BSides Las Vegas: "bsideslv"
-    - Side Events: "sideevents"
-  Acknowledgements: "acknowledgements"
-  # Author's home: "http://deanattali.com"
-
-
+  - title: The Guide
+    url: guide
+  - title: Safety and Security
+    url: safetysecurity
+  - title: Event Information
+    url: #
+    sublinks:
+    - title: Black Hat
+      url: blackhat
+    - title: DEF CON
+      url: defcon
+    - title: BSides Las Vegas
+      url: bsideslv
+    - title: Side Events
+      url: "sideevents"
+  - title: Acknowledgements
+    url: "acknowledgements"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
