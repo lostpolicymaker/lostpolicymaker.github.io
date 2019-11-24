@@ -23,7 +23,7 @@ The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferenc
 ### Black Hat
 `August 3-8, 2019`
 
-The [Black Hat](https://blackhat.com/us-19) conference was founded in 1997 by the organizers of DEF CON, for a business audience. This event features talks about security issues and approaches that impact enterprises and corporations. Black Hat is much more expensive than the other two events, and draws from a different crowd. However, many Black Hat attendees also attend DEF CON, as the two always run back-to-back. Black Hat draws nearly 20,000 attendees, for trainings and presentations, as well as a large vendor floor. Of the three events, this one feels the most like a traditional conference or convention. Black Hat has grown from a single annual conference in Las Vegas and are held annually in the United States, Europe and Asia.
+The [Black Hat](https://blackhat.com) conference was founded in 1997 by the organizers of DEF CON, for a business audience. This event features talks about security issues and approaches that impact enterprises and corporations. Black Hat is much more expensive than the other two events, and draws from a different crowd. However, many Black Hat attendees also attend DEF CON, as the two always run back-to-back. Black Hat draws nearly 20,000 attendees, for trainings and presentations, as well as a large vendor floor. Of the three events, this one feels the most like a traditional conference or convention. Black Hat has grown from a single annual conference in Las Vegas and are held annually in the United States, Europe and Asia.
 
 More about [Black Hat](blackhat).
 
