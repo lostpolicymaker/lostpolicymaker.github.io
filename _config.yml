@@ -20,20 +20,22 @@ description: A resource for public policy community attending hacker conferences
 
 # List of links in the navigation bar
 navbar-links:
-  - title: The Guide
+  - title: Guide to Hacker Summer Camp
     url: guide
   - title: Safety and Security
     url: safetysecurity
   - title: Event Information
     url: #
     sublinks:
-    - title: Black Hat
+    - title: Shmoocon 2020
+      url: shmoocon
+    - title: Black Hat 2019
       url: blackhat
-    - title: DEF CON
+    - title: DEF CON 2019
       url: defcon
-    - title: BSides Las Vegas
+    - title: BSides Las Vegas 2019
       url: bsideslv
-    - title: Side Events
+    - title: Hacker Summer Camp Side Events 2019
       url: "sideevents"
   - title: Acknowledgements
     url: "acknowledgements"
