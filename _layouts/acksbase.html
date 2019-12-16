@@ -1,17 +1,14 @@
 ---
 common-css:
   - "/css/bootstrap.min.css"
-  - "/css/bootstrap-social.css"
+  - "/css/bootstrap-grid.min.css"
+  - "/css/bootstrap-reboot.min.css"
   - "/css/main.css"
   - "/css/acks.css"
-common-ext-css:
-  - "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"
-common-googlefonts:
-  - "Lora:400,700,400italic,700italic"
-  - "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
 common-js:
-  - "/js/jquery-1.11.2.min.js"
+  - "/js/jquery-3.4.1.min.js"
   - "/js/bootstrap.min.js"
+  - "/js/bootstrap.bundle.min.js"
   - "/js/main.js"
 ---
 
@@ -23,14 +20,14 @@ common-js:
   <body>
 
     {% include gtm_body.html %}
-  
+
     {% include nav.html %}
 
     {{ content }}
 
     {% include footer.html %}
-  
+
     {% include footer-scripts.html %}
-  
+
   </body>
 </html>
