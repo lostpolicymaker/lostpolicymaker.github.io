@@ -10,10 +10,10 @@ The Lost Policymaker is a tongue-in-cheek nod to all the great travel guides tha
 
 In recent years public policymakers have increasingly frequented hacker and infosec conferences. This guide can serve as a reference and roadmap to help those in the policy field more quickly gain their footing at the events and understand hacker ethos and culture. The four conferences featured in this guide represent some of the top hacker and infosec conferences in the world.
 
-### Shmoocon
+### ShmooCon
 `January 30 - February 2, 2020`
 
-[Shmoocon](https://shmoocon.org) ([@Shmoocon](https://twitter.com/shmoocon)) is a small, low-key hacker conference in Washington D.C. with a near-cult following and a sense of humor. Its logo is a moose. [Learn more about Shmoocon...](shmoocon)
+[ShmooCon](https://ShmooCon.org) ([@ShmooCon](https://twitter.com/ShmooCon)) is a small, low-key hacker conference in Washington D.C. with a near-cult following and a sense of humor. Its logo is a moose. [Learn more about ShmooCon...](ShmooCon)
 
 ### Black Hat
 `August 1-6, 2020`
