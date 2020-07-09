@@ -1,19 +1,22 @@
 ---
 layout: page
 title: Lost Policymaker
-subtitle: Overview of Black Hat US 2019
+subtitle: Overview of Black Hat US 2020
 use-site-title: true
 ---
 
 ```
- when: August 3-6, 2019 (Trainings)
-       August 7-8, 2019 (Briefings)
-where: Mandalay Bay Convention Center
-  web: https://blackhat.com/us-19
+ when: August 1-4, 2020 (Trainings)
+       August 5-6, 2020 (Briefings)
+where: Online
+  web: https://blackhat.com/us-20
 tweet: @BlackHatEvents
 ```
 
-### Black Hat Overview
+### Black Hat 2020
+"Now in its 23rd year, Black Hat USA is the world's leading information security event, providing attendees with the very latest security research, development and trends. Black Hat USA 2020 will be entirely virtual this year, held over the same dates, August 1-6 in Pacific Daylight Time (UTC−07:00)."
+
+### Black Hat Background
 
 [Black Hat](https://blackhat.com/us-19) ([@BlackHatEvents](https://twitter.com/blackhatevents)) was created more than 20 years ago to provide security professionals a place to learn the very latest in information security risks, research and trends. The Black Hat conference was created in response to security professionals who, previously, were unable to attend DEFCON due to social stigma associated with the conference. Today, that is not the case. Two cultures prevail in both DEFCON and Black Hat, and Black Hat is viewed as the corporate junior to it’s older, free-spirited sibling.
 
@@ -25,7 +28,7 @@ From its inception in 1997, Black Hat has grown from a single annual conference 
 
 
 ### Black Hat Resources
-* [Black Hat Schedule (Trainings)](https://www.blackhat.com/us-19/training/schedule/index.html)
-* [Black Hat Schedule (Briefings)](https://www.blackhat.com/us-19/briefings/schedule/index.html)
-* [Black Hat Schedule (Arsenal)](https://www.blackhat.com/us-19/arsenal/schedule/index.html)
-* [Black Hat Business Hall](https://www.blackhat.com/us-19/business-hall.html)
+* [Black Hat Schedule (Trainings)](https://www.blackhat.com/us-20/training/schedule/index.html)
+* [Black Hat Schedule (Briefings)](https://www.blackhat.com/us-20/briefings/schedule/index.html)
+* [Black Hat Schedule (Arsenal)](https://www.blackhat.com/us-20/arsenal/schedule/index.html)
+* [Black Hat Business Hall](https://www.blackhat.com/us-20/business-hall.html)
