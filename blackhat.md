@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lost Policymaker
-subtitle: Overview of Black Hat US 2020
+subtitle: Black Hat US 2020
 use-site-title: true
 ---
 
@@ -12,7 +12,7 @@ where: Online
   web: https://blackhat.com/us-20
 tweet: @BlackHatEvents
 ```
-
+<br />
 ### Black Hat 2020
 "Now in its 23rd year, Black Hat USA is the world's leading information security event, providing attendees with the very latest security research, development and trends. Black Hat USA 2020 will be entirely virtual this year, held over the same dates, August 1-6 in Pacific Daylight Time (UTC−07:00)."
 

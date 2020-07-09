@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lost Policymaker
-subtitle: Overview of DEF CON 28
+subtitle: DEF CON 28
 use-site-title: true
 ---
 
@@ -11,7 +11,7 @@ where: Online
   web: https://defcon.org
 tweet: @defcon
 ```
-
+<br />
 ### DEF CON 2020
 DEF CON 28: [Safe Mode](https://www.defcon.org/html/defcon-safemode/dc-safemode-faq.html) will take place entirely online, primarily through streaming and recorded talks, as well as realtime discussions via Discord. In 2020 the event will be entirely free for anyone to attend. Much of the organizing and planning is taking place on the [DEF CON Forums](https://forum.defcon.org/node/231980), and many of the [Hacker Villages](villages) will be hosting their own content as well.
 
