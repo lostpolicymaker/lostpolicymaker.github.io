@@ -10,6 +10,10 @@ The Lost Policymaker is a tongue-in-cheek nod to all the great travel guides tha
 
 In recent years public policymakers have increasingly frequented hacker and infosec conferences. This guide can serve as a reference and roadmap to help those in the policy field more quickly gain their footing at the events and understand hacker ethos and culture. The four conferences featured in this guide represent some of the top hacker and infosec conferences in the world.
 
+## Hacker Summer Camp during COVID-19
+COVID-19 has had tremendous negative impacts on public health and society, including Hacker Summer Camp. While going virtual frees conferences of certain constraints (space, geography, shipping, time windows), it imposes others (distance, isolation, network bandwidth). Online events have not yet found a way to evoke the same organic social interactions that physical ones do (if they ever will), so those aspects of events are the most heavily impacted. Unfortunately, [BSides Las Vegas](bsideslv) decided to cancel its activities, while [Black Hat](blackhat), [DEF CON](defcon), and many of the Villages are altering their content and format to match a virtual environment. 
+
+
 ### ShmooCon
 `January 30 - February 2, 2020`
 
@@ -21,7 +25,7 @@ In recent years public policymakers have increasingly frequented hacker and info
 The [Black Hat](https://blackhat.com) conference features talks about security issues and approaches that impact enterprises and corporations. [Learn more about Black Hat...](blackhat)
 
 ### BSides Las Vegas
-`August 4-5, 2020`
+`CANCELLED FOR 2020`
 
 [BSides Las Vegas](https://bsideslv.org) is the original in a series of over 100 global annual events, founded in 2009 as an 'un-conference' style event as as more laid-back alternative to DEF CON and Black Hat. [Learn more about BSides Las Vegas...](bsideslv)
 
