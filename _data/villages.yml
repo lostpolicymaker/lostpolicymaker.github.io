@@ -1,0 +1,76 @@
+- name: Aerospace Village
+  twitter: SecureAerospace
+  link:    https://aerospacevillage.org
+  img:  SecureAerospace.jpg
+  description: Members of the security research community invite aviation industry leaders to work together toward safe, reliable, and trustworthy air travel.
+  quote: “The Aviation Village welcomes those who seek to improve aviation security, safety, and resilience through positive, productive collaboration among all ecosystem stakeholders.”
+
+- name: AI Village
+  twitter: aivillage_dc
+  link:
+  img: aivillage_dc.jpg
+  description: From fundamental research to public policy positions, the AI Village seeks to build connections between the AI and security research communities.
+  quote: “We aspire to quell mounting discomfort and democratize the knowledge needed to capitalize on AI’s prodigious potential.”
+
+- name: Biohacking Village
+  twitter: dc_bhv
+  link:
+  img: dc_bhv.jpg
+  description: Featuring talks, as well as hands on labs for biohacking and medical device security research; creating a safe space for individuals across the healthcare ecosystem; leveraging the best technology has to offer, in the service of public health and wellness.
+  quote: "The non-profit Biohacking Village empowers the cybersecurity research, biomedical technology, DIY Bio, and Citizen Science communities for healthier tech and healthier people."
+
+- name: Car Hacking Village
+  twitter: carhackvillage
+  link:
+  img: carhackvillage.jpg
+  description: Security researchers work together with the automotive industry to improve the security - and safety - of modern vehicles.
+  quote: “Leveraging the vast amount of experience the security research community brings to the Village may increase the safety and security of vehicles on the road today and for generations to come.”
+
+- name: Crypto and Privacy Village
+  twitter: CryptoVillage
+  link:
+  img: CryptoVillage.jpg
+  description: Bringing awareness and education about cryptography and privacy issues, with discussions from the latest technical techniques to public policy discussions.
+  quote: “At the Crypto & Privacy Village you can learn how to secure your own systems while also picking up some tips and tricks on how to break classical and modern encryption.”
+
+- name: Ethics Village
+  twitter: EthicsVillage
+  link:
+  img: EthicsVillage.jpg
+  description: Studies the unique ethics posed by the emerging field of information security and hacking, drawing on medicine, law, and philosophy.
+  quote: “The DEFCON Ethics Village, is an ethics conference focused on fostering a discussion about ethics in the security domain.”
+
+- name: ICS Village
+  twitter: ICS_Village
+  link:
+  img: ICS_Village.jpg
+  description: Equips industry and policymakers to better defend industrial equipment through experiential awareness, education, and training.
+  quote: “The ICS Village equips industry and policymakers to better defend industrial equipment through experiential awareness, education, and training.”
+
+- name: Hack the Sea
+  twitter: hack_the_sea
+  link:
+  img: hack_the_sea.jpg
+  description: Discussions and hands on learning about maritime security and the trillions of dollars of global commerce it supports.
+  quote: “Hack The Sea, [is] a three day mini-conference organized to challenge the infosec community to apply their skills, red and blue, to protect our maritime critical infrastructure and human lives at sea.”
+
+- name: Lockpick Village
+  twitter: toool
+  link:
+  img: toool.png
+  description: One of the most hands-on experiences at DEF CON and offers a key insight into why security is a nuanced topic. Participants to learn to defeat the most prevalent physical security protections, often picking their first lock in under five minutes.
+  quote: By exploring the faults and flaws in many popular lock designs, you can not only learn about the fun hobby of sport-picking, but also gain a much stronger knowledge about the best methods and practices for protecting your own property.”
+
+- name: r00tz Asylum
+  twitter: r00tzasylum
+  link:
+  img: r00tzasylum.jpeg
+  description: A safe space for kids (and their parents) to learn about white hat hacking and staying safe online, with hands on activities available to kids to take the honor code.
+  quote: "r00tz Asylum is open to anyone who is curious and open to learning new things, like encryption, information security, hardware engineering and more."
+
+- name: Voting Village
+  twitter: VotingVillageDC
+  link:
+  img: VotingVillageDC.jpg
+  description: Exploration of election security from technical and public policy perspectives.
+  quote: “The Voting Village ... will highlight the various aspects of election cybersecurity, including the technical components that make up our election infrastructure ranging from hardware, to software to databases."
