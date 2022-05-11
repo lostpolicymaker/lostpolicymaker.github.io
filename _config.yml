@@ -27,11 +27,11 @@ navbar-links:
   - title: Event Information
     url: #
     sublinks:
-    - title: Black Hat
+    - title: Black Hat 2022
       url: blackhat
-    - title: DEF CON
+    - title: DEF CON 30
       url: defcon
-    - title: BSidesLV CANCELLED
+    - title: BSidesLV 2022
       url: bsideslv
       disabled: yes
     - title: Hacker Villages
