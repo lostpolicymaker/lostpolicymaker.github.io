@@ -39,7 +39,7 @@ navbar-links:
     url: acknowledgements
   - title: Hacker Culture 101
     url: hackerculture101
-  - title: The Guide [old]
+  - title: The Guide [2019]
     url: guide
     disabled: yes
 
