@@ -20,10 +20,8 @@ description: A resource for public policy community attending hacker conferences
 
 # List of links in the navigation bar
 navbar-links:
-  - title: The Guide
-    url: guide
-  - title: Safety and Security
-    url: safetysecurity
+  - title: Dates and Locations
+    url: datesandlocations
   - title: Event Information
     url: #
     sublinks:
@@ -33,11 +31,15 @@ navbar-links:
       url: defcon
     - title: BSidesLV 2022
       url: bsideslv
-      disabled: yes
     - title: Hacker Villages
       url: villages
+  - title: Planning Your Trip
+    url: planningyourtrip
   - title: Acknowledgements
     url: acknowledgements
+  - title: The Guide [old]
+    url: guide
+    disabled: yes
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
