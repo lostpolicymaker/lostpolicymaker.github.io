@@ -18,6 +18,7 @@ The Lost Policymaker worked with [Marc Rogers](http://marcrogers.org) ([@marcwro
 * **Photo courtesy.** Privacy is important to the hacker community. No wide shots. If you do want to take a photo, ask the people in the area first.
 * **Conference safety and security.** If you have any questions about physical safety or security, find one of the red-shirted Goons. They are there to help.
 * **Healthy dose of paranoia.** If something looks suspicious, it probably is. Be cautious and skeptical, while exploring and finding what you’ll enjoy about the conferences. Too much paranoia can be debilitating (trust us).
+<br>
 
 ### Safety and security at Hacker Summer Camp
 **Money and Finances - Bring Cash.** While Las Vegas casinos would love to extend you a line of credit, the hacker conferences that take place there don’t always accept credit cards. Many of the independent vendors that sell swag (souvenirs like clothing), electronic badges, and tools, sometimes find it troublesome to deal with credit cards. Casino ATMs may be the world’s most monitored cash points, and are official ones are generally safe, though they may be down in the immediate area of the conferences, victims of their own insecurity or network problems. Avoid ATMs that look unusual or temporary.

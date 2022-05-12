@@ -9,7 +9,6 @@ carousels:
     - image: /img/slider/image12.png
     - image: /img/slider/image11.png
     - image: /img/slider/image10.png
-    - image: /img/slider/image9.png
     - image: /img/slider/image8.png
     - image: /img/slider/image7.png
     - image: /img/slider/6.png
@@ -37,25 +36,22 @@ In recent years public policymakers have increasingly frequented hacker and info
 The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferences with very different personalities and demographics. DEF CON, the oldest of the three, draws the largest crowd, largely from the hacker (or security researcher) community. Black Hat is the most like a typical convention, with a large vendor hall and high cost. BSides Las Vegas, the most recent, is a non-profit organization put on by the community, for the community. These events typically take place the first full week in August, and the following weekend.  
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+PHOTO CREDITS: @astcell / @MrB0t / Jeroen de Bakker
+<br>
 
-### Hacker Summer Camp during COVID-19 [2022 Update]
+#### Hacker Summer Camp during COVID-19 [2022 Update]
 COVID-19 has had tremendous negative impacts on public health and society, including Hacker Summer Camp (i.e., Blackhat, DEFCON, and BSides Las Vegas). While going virtual frees conferences of certain constraints (space, geography, shipping, time windows), it imposes others (distance, isolation, network bandwidth). Online events have not yet found a way to evoke the same organic social interactions that physical ones do (if they ever will), so those aspects of events are the most heavily impacted. Fortunately for 2022, [BSides Las Vegas](bsideslv), [Black Hat](blackhat), [DEF CON](defcon), and its associated villages are **all returning to in-person activities**!
 
+**DEFCON 30**:`August 11-14, 2022` [Learn more...](defcon)
+**Black Hat**: `August 6-11, 2022` [Learn more...](blackhat)
+**BSides Las Vegas**:`August 9-10, 2022` [Learn more...](bsideslv)
 
-#### Black Hat
-`August 6-11, 2022`
+<br>
+### Plan Your Trip to Hacker Summer Camp!
+* [Main Dates and Locations](datesandlocations)
+* [Hacker Culture 101](hackerculture101)
+* [Planning Your Trip / Safety Guidelines](planningyourtrip)
 
-The [Black Hat](https://blackhat.com) conference features talks about security issues and approaches that impact enterprises and corporations. [Learn more about Black Hat...](blackhat)
-
-#### BSides Las Vegas
-`August 9-10, 2022`
-
-[BSides Las Vegas](https://bsideslv.org) is the original in a series of over 100 global annual events, founded in 2009 as an 'un-conference' style event as as more laid-back alternative to DEF CON and Black Hat. [Learn more about BSides Las Vegas...](bsideslv)
-
-#### DEF CON 30
-`August 11-14, 2022`
-
-The [DEF CON](https://defcon.org) is the premiere global hacker conference. Even after 30 years, DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith. [Learn more about DEF CON...](defcon)
 
 <!--#### ShmooCon
 `January 15 - January 17, 2021`
