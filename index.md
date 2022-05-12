@@ -31,6 +31,7 @@ carousels:
 The Lost Policymaker is a tongue-in-cheek nod to all the great travel guides that have given aid and comfort to those who seek new experiences in unknown spaces. We hope it will serve you in the same capacity as you travel through a hacker conference or three, whether that's in the heat of the Las Vegas desert, the friendly confines of Washington D.C., the wild west coast in San Francisco, or elsewhere.
 
 In recent years public policymakers have increasingly frequented hacker and infosec conferences. This guide can serve as a reference and roadmap to help those in the policy field more quickly gain their footing at the events and understand hacker ethos and culture. The three conferences featured in this guide represent some of the top hacker and infosec conferences in the world.
+<br>
 
 ### The Conferences - Hacker Summer Camp
 The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferences with very different personalities and demographics. DEF CON, the oldest of the three, draws the largest crowd, largely from the hacker (or security researcher) community. Black Hat is the most like a typical convention, with a large vendor hall and high cost. BSides Las Vegas, the most recent, is a non-profit organization put on by the community, for the community. These events typically take place the first full week in August, and the following weekend.  
@@ -43,7 +44,9 @@ PHOTO CREDITS: @astcell / @MrB0t / Jeroen de Bakker
 COVID-19 has had tremendous negative impacts on public health and society, including Hacker Summer Camp (i.e., Blackhat, DEFCON, and BSides Las Vegas). While going virtual frees conferences of certain constraints (space, geography, shipping, time windows), it imposes others (distance, isolation, network bandwidth). Online events have not yet found a way to evoke the same organic social interactions that physical ones do (if they ever will), so those aspects of events are the most heavily impacted. Fortunately for 2022, [BSides Las Vegas](bsideslv), [Black Hat](blackhat), [DEF CON](defcon), and its associated villages are **all returning to in-person activities**!
 
 **DEFCON 30**:`August 11-14, 2022` [Learn more...](defcon)
+
 **Black Hat**: `August 6-11, 2022` [Learn more...](blackhat)
+
 **BSides Las Vegas**:`August 9-10, 2022` [Learn more...](bsideslv)
 
 <br>
@@ -51,8 +54,6 @@ COVID-19 has had tremendous negative impacts on public health and society, inclu
 * [Main Dates and Locations](datesandlocations)
 * [Hacker Culture 101](hackerculture101)
 * [Planning Your Trip / Safety Guidelines](planningyourtrip)
-
-
 <!--#### ShmooCon
 `January 15 - January 17, 2021`
 
@@ -60,6 +61,7 @@ COVID-19 has had tremendous negative impacts on public health and society, inclu
 #note: removing until after DEFCON, we can put it back though.
 -->
 
+<br>
 ### Follow and Contribute
 
 Follow the action with [#lostpolicymaker](https://twitter.com/search?q=%23lostpolicymaker) and [#defconpolicy](https://twitter.com/search?q=%23defconpolicy) on your favorite social media outlets.
