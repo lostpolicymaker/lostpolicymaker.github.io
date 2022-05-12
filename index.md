@@ -54,12 +54,6 @@ COVID-19 has had tremendous negative impacts on public health and society, inclu
 * [Main Dates and Locations](datesandlocations)
 * [Hacker Culture 101](hackerculture101)
 * [Planning Your Trip / Safety Guidelines](planningyourtrip)
-<!--#### ShmooCon
-`January 15 - January 17, 2021`
-
-[ShmooCon](https://ShmooCon.org) ([@ShmooCon](https://twitter.com/ShmooCon)) is a small, low-key hacker conference in Washington D.C. with a near-cult following and a sense of humor. Its logo is a moose. [Learn more about ShmooCon...](ShmooCon)
-#note: removing until after DEFCON, we can put it back though.
--->
 
 <br>
 ### Follow and Contribute
