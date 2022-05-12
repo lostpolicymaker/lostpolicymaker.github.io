@@ -5,34 +5,23 @@ subtitle: A Primer on U.S. Hacking Culture and History
 use-site-title: true
 ---
 
-### Hacker Summer Camp during COVID-19 [2022 Update]
-COVID-19 has had tremendous negative impacts on public health and society, including Hacker Summer Camp (i.e., Blackhat, DEFCON, and BSides Las Vegas). While going virtual frees conferences of certain constraints (space, geography, shipping, time windows), it imposes others (distance, isolation, network bandwidth). Online events have not yet found a way to evoke the same organic social interactions that physical ones do (if they ever will), so those aspects of events are the most heavily impacted. Fortunately for 2022, [BSides Las Vegas](bsideslv), [Black Hat](blackhat), [DEF CON](defcon), and its associated villages are **all returning to in-person activities**!
+**One defining characteristic of hacker culture** is that it tends to defy concise description. The dark, sinister, anti-social teenage boy prominent in stock photos and mainstream portrayals is an unfair, and inaccurate, depiction of the broader hacker culture that persists today. Instead, **the hacker culture has roots in creativity, breaking and fixing things**, and welcoming individuals regardless of their demographics. This is the predominant culture today; one which continues to evolve just as technology, business, and society adapt to a digital world.
 
+#### Some History
+Over twenty years ago, the L0pht [testified](https://www.youtube.com/watch?v=VVJldn_MmMY) before the U.S. Senate Committee on Government Affairs and presented one of the first public warnings about the dual-use nature of the internet, largely using their online monikers rather than real names. Later that same year, a different group mobilized volunteers to digitally occupy (what we now call a Distributed Denial of Service or DDOS) high profile military websites as an act of civil disobedience, using their real names. These two groups of hackers represented the curiosity, drive, and public concern that permeates hacker culture but is often overshadowed by modern stereotypes—yet each was very different in their ideologies, approaches, and ends.
 
-#### Black Hat
-`August 6-11, 2022`
+<div class="panel panel-info">
+**HACKER MOTIVATIONS**
+{: .panel-heading}
+<div class="panel-body">
 
-The [Black Hat](https://blackhat.com) conference features talks about security issues and approaches that impact enterprises and corporations. [Learn more about Black Hat...](blackhat)
+Security researchers have diverse motivations for investigating security flaws in software and systems. As companies, policymakers, lawyers, and others interact with the security research community, understanding this truth can unlock more fruitful engagement. [I Am The Cavalry](https://iatc.me/motivations) has been using a simple and useful framework to discuss the drivers of security researcher behavior. While this list isn’t comprehensive, and while most of us fit at least two of these categories, this framing can catalyze a dialog that allows a fuller appreciation of why we do what we do, and that is the value of the framework.
 
-#### BSides Las Vegas
-`August 9-10, 2022`
+**PROTECT** - make the world a safer place. These researchers are drawn to problems where they feel they can make a difference.
+**PUZZLE** - tinker out of curiosity. This type of researcher is typically a hobbyist and is driven to understand how things work.
+**PRESTIGE** - seek pride and notability. These researchers often want to be the best, or very well known for their work.
+**PROFIT** - to earn money. These researchers trade on their skills as a primary or secondary income.
+**PROTEST/PATRIOTISM** - ideological and principled. These researchers, whether patriots or protestors, strongly support or oppose causes.
 
-[BSides Las Vegas](https://bsideslv.org) is the original in a series of over 100 global annual events, founded in 2009 as an 'un-conference' style event as as more laid-back alternative to DEF CON and Black Hat. [Learn more about BSides Las Vegas...](bsideslv)
-
-#### DEF CON 30
-`August 11-14, 2022`
-
-The [DEF CON](https://defcon.org) is the premiere global hacker conference. Even after 30 years, DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith. [Learn more about DEF CON...](defcon)
-
-<!--#### ShmooCon
-`January 15 - January 17, 2021`
-
-[ShmooCon](https://ShmooCon.org) ([@ShmooCon](https://twitter.com/ShmooCon)) is a small, low-key hacker conference in Washington D.C. with a near-cult following and a sense of humor. Its logo is a moose. [Learn more about ShmooCon...](ShmooCon)
-#note: removing until after DEFCON, we can put it back though.
--->
-
-### Follow and Contribute
-
-Follow the action with [#lostpolicymaker](https://twitter.com/search?q=%23lostpolicymaker) and [#defconpolicy](https://twitter.com/search?q=%23defconpolicy) on your favorite social media outlets.
-
-Contribute content on the [GitHub repository](https://github.com/lostpolicymaker/lostpolicymaker.github.io) by opening issues or making pull requests.
+</div>
+</div>
