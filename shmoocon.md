@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Lost Policymaker
-subtitle: Overview of ShmooCon 2020
+subtitle: Overview of ShmooCon 2021
 use-site-title: true
 twitter: ShmooCon
 web: ShmooCon.org
-start_date: January 31
-end_date: February 2
+start_date: January 15
+end_date: January 17
 location: Washington Hilton Hotel
 ---
 

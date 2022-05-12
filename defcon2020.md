@@ -5,18 +5,14 @@ subtitle: DEF CON 28
 use-site-title: true
 ---
 
-
 ```
- when: August 11-14, 2022
-where: Caesars Forum
-       + Flamingo Convention Center
-       + Harrah's Las Vegas
-       + The Linq Las Vegas
+ when: August 6-9, 2020
+where: Online
   web: https://defcon.org
 tweet: @defcon
 ```
 <br />
-### DEF CON 2022
+### DEF CON 2020
 DEF CON 28: [Safe Mode](https://www.defcon.org/html/defcon-safemode/dc-safemode-faq.html) will take place entirely online, primarily through streaming and recorded talks, as well as realtime discussions via Discord. In 2020 the event will be entirely free for anyone to attend. Much of the organizing and planning is taking place on the [DEF CON Forums](https://forum.defcon.org/node/231980), and many of the [Hacker Villages](villages) will be hosting their own content as well.
 
 The [DEF CON Policy Passport](https://bit.ly/DC28PolicyReg) is like a "fast pass" for the conference, allowing members of the public policy community to register with dedicated support and orientation tools to help out.
@@ -24,7 +20,7 @@ The [DEF CON Policy Passport](https://bit.ly/DC28PolicyReg) is like a "fast pass
 ### DEF CON Background
 The [DEF CON](https://defcon.org) ([@defcon](https://twitter.com/defcon)) conference began in 1993 as a party to celebrate the closing of a popular online network. The party got out of hand before it even started, as dozens of other groups were invited, and the organizers remodeled it based on other hacker conferences that had come before. The talks at the first event resemble what you might hear today: Talks from lawyers and law enforcement, gender and social issues in technology, technical explainers, and warnings about issues that would manifest in the future. DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith.
 
-Now in its 30th year, DEF CON draws 25,000-30,000 people and is usually held the first full weekend in August, is unlike typical conventions or trade shows.
+Now in its 27th year, DEF CON draws 25,000-30,000 people and is usually held the first full weekend in August, is unlike typical conventions or trade shows.
 
  * The DEF CON “Villages” are self-contained spaces dedicated to single issues, such as privacy, social engineering, lockpicking, voting machines, and vehicles - that tend toward highly interactive demonstrations and hands-on hacking.
  * The vendor hall is more akin to a techno-bazaar than a trade show floor, with storefronts selling tools or knowledge, civil society groups engaging directly with their stakeholders, and universities recruiting students.
@@ -52,9 +48,9 @@ Now in its 30th year, DEF CON draws 25,000-30,000 people and is usually held the
 >They are the staff at DEF CON. They have many roles including safety, speaker coordination, vendor room coordination, network operations, et cetera... Please try to be helpful to them if they make requests of you. If any goon tells you to move, please do so immediately as there may be safety issues they are attempting to address.
 
 ### DEF CON Resources
-* [DEF CON Talk Schedule](#) (not yet available, , check back in June!)
-* [DEF CON Villages](#) (not yet available, check back in June!)
+* [DEF CON Talk Schedule](#) (not yet available)
+* [DEF CON Villages](#) (not yet available)
 <!-- * [Official DEF CON Parties](https://www.defcon.org/html/defcon-27/dc-27-parties.html) !-->
-* [DEF CON Contests and Events](#) (not yet available, check back in June!)
+* [DEF CON Contests and Events](#) (not yet available)
 <!-- * [DEF CON Maps](https://www.defcon.org/html/defcon-27/dc-27-venue.html) !-->
 * [DEF CON Forums](https://forum.defcon.org/node/231980)
