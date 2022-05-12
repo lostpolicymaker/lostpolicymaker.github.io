@@ -10,18 +10,23 @@ use-site-title: true
 #### Some History
 Over twenty years ago, the L0pht [testified](https://www.youtube.com/watch?v=VVJldn_MmMY) before the U.S. Senate Committee on Government Affairs and presented one of the first public warnings about the dual-use nature of the internet, largely using their online monikers rather than real names. Later that same year, a different group mobilized volunteers to digitally occupy (what we now call a Distributed Denial of Service or DDOS) high profile military websites as an act of civil disobedience, using their real names. These two groups of hackers represented the curiosity, drive, and public concern that permeates hacker culture but is often overshadowed by modern stereotypes—yet each was very different in their ideologies, approaches, and ends.
 
-<div class="panel panel-info">
+``````
 **HACKER MOTIVATIONS**
-{: .panel-heading}
-<div class="panel-body">
 
 Security researchers have diverse motivations for investigating security flaws in software and systems. As companies, policymakers, lawyers, and others interact with the security research community, understanding this truth can unlock more fruitful engagement. [I Am The Cavalry](https://iatc.me/motivations) has been using a simple and useful framework to discuss the drivers of security researcher behavior. While this list isn’t comprehensive, and while most of us fit at least two of these categories, this framing can catalyze a dialog that allows a fuller appreciation of why we do what we do, and that is the value of the framework.
 
-**PROTECT** - make the world a safer place. These researchers are drawn to problems where they feel they can make a difference.
-**PUZZLE** - tinker out of curiosity. This type of researcher is typically a hobbyist and is driven to understand how things work.
-**PRESTIGE** - seek pride and notability. These researchers often want to be the best, or very well known for their work.
-**PROFIT** - to earn money. These researchers trade on their skills as a primary or secondary income.
-**PROTEST/PATRIOTISM** - ideological and principled. These researchers, whether patriots or protestors, strongly support or oppose causes.
+**PROTECT**
+make the world a safer place. These researchers are drawn to problems where they feel they can make a difference.
 
-</div>
-</div>
+**PUZZLE**
+tinker out of curiosity. This type of researcher is typically a hobbyist and is driven to understand how things work.
+
+**PRESTIGE**
+seek pride and notability. These researchers often want to be the best, or very well known for their work.
+
+**PROFIT**
+to earn money. These researchers trade on their skills as a primary or secondary income.
+
+**PROTEST/PATRIOTISM**
+ideological and principled. These researchers, whether patriots or protestors, strongly support or oppose causes.
+```

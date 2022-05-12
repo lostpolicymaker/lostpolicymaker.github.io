@@ -20,11 +20,13 @@ description: A resource for public policy community attending hacker conferences
 
 # List of links in the navigation bar
 navbar-links:
-  - title: Dates and Locations
-    url: datesandlocations
-  - title: Event Information
+  - title: Hacker Summer Camp
     url: #
     sublinks:
+    - title: Dates and Locations
+      url: datesandlocations
+    - title: Planning Your Trip
+      url: planningyourtrip
     - title: Black Hat 2022
       url: blackhat
     - title: DEF CON 30
@@ -33,10 +35,10 @@ navbar-links:
       url: bsideslv
     - title: Hacker Villages
       url: villages
-  - title: Planning Your Trip
-    url: planningyourtrip
   - title: Acknowledgements
     url: acknowledgements
+  - title: Hacker Culture 101
+    url: hackerculture101
   - title: The Guide [old]
     url: guide
     disabled: yes
