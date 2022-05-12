@@ -7,7 +7,7 @@ use-site-title: true
 
 ### Conferences
 
-#### DEFCON 30
+#### ![pins](/img/mapicons/defconpin.png) DEFCON 30
 `August 11-14, 2022`
 
 `where:` ([Caesars Forum](https://goo.gl/maps/VddzBzUzmNHp9UhUA))
