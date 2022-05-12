@@ -7,7 +7,7 @@ use-site-title: true
 
 ### Conferences
 
-#### DEFCON 30 ![DEFCON30](/img/mapicons/defconpin.png)
+#### DEFCON 30 ![DEFCON30](/img/mapicons/defconpin.png){:height: 1em;}
 ```
 August 11-14, 2022
 where: Caesars Forum ([Google Maps](https://goo.gl/maps/VddzBzUzmNHp9UhUA))
@@ -18,7 +18,7 @@ web: https://defcon.org
 ```
 The [DEF CON](https://defcon.org) is the premiere global hacker conference. Even after 30 years, DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith. [Learn more about DEF CON...](defcon)
 
-#### Black Hat ![Blackhat](/img/mapicons/blackhatpin.png)
+#### Black Hat ![Blackhat](/img/mapicons/blackhatpin.png){:height: 1em;}
 ```
 August 6-11, 2022 (Trainings)
 August 10-11, 2022 (Briefings)
@@ -27,7 +27,7 @@ web: https://blackhat.com/us-20
 ```
 The [Black Hat](https://blackhat.com) conference features talks about security issues and approaches that impact enterprises and corporations. [Learn more about Black Hat...](blackhat)
 
-#### BSides Las Vegas ![Bsides](/img/mapicons/bsidespin.png)
+#### BSides Las Vegas ![Bsides](/img/mapicons/bsidespin.png){:height: 1em;}
 ```
 August 9-10, 2022
 where: Tuscany Hotel and Casino ([Google Maps](https://g.page/tuscanylv?share))
