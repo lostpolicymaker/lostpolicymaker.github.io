@@ -40,3 +40,9 @@ This project is fully volunteer driven. While many dozens of people have provide
 * [Mr Bot](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20pictures/DEF%20CON%2026%20Mr_Bot%20pictures/) - Photography
 * [Noise](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20pictures/DEF%20CON%2026%20Noise%20pictures/) - Photography
 * [Infosystir](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20pictures/DEF%20CON%2026%20infosystir%20pictures/) - Photography
+
+### Other Resources
+Try as we might, we can't be everything to everyone. Fortunately, we know people. ;) Here are some more research resources for your journey to Hacker Summer Camp.
+
+* Check out the excellent and very detailed, [Hacker Summer Camp Survival Guide](https://github.com/Shad0w-Synd1cate/Hacker-Summer-Camp-Survival-Guide/blob/master/The_Hacker_Summer_Camp_Survival_Guide.pdf) by [Shad0w-Synd1cate](https://www.meetup.com/Cyber-Security-and-IT-Computer-Group-of-Las-Vegas/), written by [Collin Montenegro](https://twitter.com/_Unkn0wn1) and [Alexander Delgado](https://twitter.com/0xalexdelgado).
+* [This DEF CON Village guide](http://defcon.outel.org/), compiled by [Joel M. Baldwin](https://twitter.com/qumqats) will overwhelm you with information, yet it's a great resource for those who want all their info in one place.
