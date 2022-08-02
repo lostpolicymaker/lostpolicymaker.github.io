@@ -26,7 +26,7 @@ The [DEF CON](https://defcon.org) is the premiere global hacker conference. Even
 
 `where:` ([Mandalay Bay Las Vegas](https://g.page/mandalaybayresort?share)) + Virtual
 
-`web:` https://blackhat.com/us-20\n
+`web:` https://blackhat.com/us-22/
 
 The [Black Hat](https://blackhat.com) conference features talks about security issues and approaches that impact enterprises and corporations. [Learn more about Black Hat...](blackhat)
 
