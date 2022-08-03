@@ -45,7 +45,7 @@ COVID-19 policy: No requirements. Consider personal health needs.
 
 COVID-19 policy: Masks required at all time. Vaccination strongly encouraged.
 
-#### ![pins](/img/mapicons/bsidespin.png) The Diana Initiative
+#### ![pins](/img/mapicons/dianainipin.png) The Diana Initiative
 `July 16, 2022 (Virtual)`
 `August 10-11, 2022 (In-person Conference)`
 
