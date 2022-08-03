@@ -36,6 +36,11 @@ Cautious attendees bring new, clean phones and create new accounts that they wil
 
 It takes a lot to remember all of this and practice good OPSEC (Operational Security). It’s why some attendees decide to leave all their tech at home.
 
+**Masking up**
+With a majority now having received the vaccine, most venues have stopped checking vaccine status for indoor events. COVID-19 testing has similarly slowed down and is mostly done privately with at-home kits. There are still new COVID-19 variants and diseases (Hello Monkeypox) on the move. Spikes in in infections and hosptializations are not uncommon. Masks remain the most effective way to protect yourself and others when at an indoor event. All four conferences at Hacker Summer Camp have a range of masking policies: [The Diana Initiative](https://www.dianainitiative.org/about/covid-policies/) requires a N95 or equivalent face mask for all attendees; [BSides Las Vegas](https://bsideslv.org/covid) requires face masks to be worn at all times at the event; [DEF CON](https://defcon.org/html/links/dc-news.html#dc30covid) requires a face mask at the event; [Black Hat](https://www.blackhat.com/code-of-conduct.html) encourages attendees to consider personal health needs.
+
+With a history of drawing in at least 30,000 attendees, a cautious attendee may seek out a higher-grade face mask. [Robert Graham](https://twitter.com/ErrataRob) conducted an [at-home comparison and assessment](https://cybersect.substack.com/p/face-masks-for-defcon) of various face mask efficacy keeping DEF CON in mind. Attendees looking to give them the best protection would do best procuring either a NIOSH N95 certified mask or a elastomeric mask with the correct filter.
+
 **Health and Safety.**
 *Goons* are volunteer conference security staff, there to make sure the events go well and to take care of health and safety issues. You can spot them by their red badges and red shirts, often with a backpack strolling the halls.
 
