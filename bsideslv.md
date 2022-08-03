@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 ```
- when: August 6-7, 2022
+ when: August 9-10, 2022
 where: Tuscany Hotel and Casino
        web: https://bsideslv.org
      tweet: @bsideslv
