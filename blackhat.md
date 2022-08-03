@@ -27,7 +27,7 @@ Black Hat Trainings offer attendees individual technical courses on topics rangi
 From its inception in 1997, Black Hat has grown from a single annual conference in Las Vegas to a conference series held annually in the United States, Europe and Asia.
 
 ### Black Hat Health Policy
-At this time, BlackHat has no requirements for vaccinations, masks, or other health measures. Attendees are advised to consider their personal health needs. [Learn more](https://www.blackhat.com/code-of-conduct.html)
+At this time, BlackHat has no requirements for vaccinations, masks, or other health measures. Attendees are advised to consider their personal health needs. [Learn more...](https://www.blackhat.com/code-of-conduct.html)
 
 ### Black Hat Resources
 * [Black Hat Schedule (Trainings)](https://www.blackhat.com/us-22/training/schedule/index.html) + [Map](https://i.blackhat.com/docs/usa/2022/BHUS22-Training-Map.pdf)
