@@ -17,7 +17,9 @@ use-site-title: true
 
 `web:` https://defcon.org
 
-The [DEF CON](https://defcon.org) is the premiere global hacker conference. Even after 30 years, DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith. [Learn more about DEF CON...](defcon)
+The [DEF CON](https://defcon.org) is the premiere global hacker conference. Even after 30 years, DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith. [Learn more about DEF CON...](https://lostpolicymaker.org/defcon/))
+
+COVID-19 policy: Masks required.
 
 #### ![pins](/img/mapicons/blackhatpin.png) Black Hat
 `August 6-11, 2022 (Trainings)`
@@ -26,9 +28,11 @@ The [DEF CON](https://defcon.org) is the premiere global hacker conference. Even
 
 `where:` ([Mandalay Bay Las Vegas](https://g.page/mandalaybayresort?share)) + Virtual
 
-`web:` https://blackhat.com/us-20\n
+`web:` https://blackhat.com/us-22/
 
-The [Black Hat](https://blackhat.com) conference features talks about security issues and approaches that impact enterprises and corporations. [Learn more about Black Hat...](blackhat)
+The [Black Hat](https://blackhat.com) conference features talks about security issues and approaches that impact enterprises and corporations. [Learn more about Black Hat...](https://lostpolicymaker.org/blackhat/)
+
+COVID-19 policy: No requirements. Consider personal health needs.
 
 #### ![pins](/img/mapicons/bsidespin.png) BSides Las Vegas
 `August 9-10, 2022`
@@ -37,7 +41,21 @@ The [Black Hat](https://blackhat.com) conference features talks about security i
 
 `web:` https://bsideslv.org
 
-[BSides Las Vegas](https://bsideslv.org) is the original in a series of over 100 global annual events, founded in 2009 as an 'un-conference' style event as as more laid-back alternative to DEF CON and Black Hat. [Learn more about BSides Las Vegas...](bsideslv)
+[BSides Las Vegas](https://bsideslv.org) is the original in a series of over 100 global annual events, founded in 2009 as an 'un-conference' style event as as more laid-back alternative to DEF CON and Black Hat. [Learn more about BSides Las Vegas...](https://lostpolicymaker.org/bsideslv/)
+
+COVID-19 policy: Masks required at all time. Vaccination strongly encouraged.
+
+#### ![pins](/img/mapicons/dianainipin.png) The Diana Initiative
+`July 16, 2022 (Virtual)`
+`August 10-11, 2022 (In-person Conference)`
+
+`where:`  ([The Westin Las Vegas Hotel & Spa](https://goo.gl/maps/RhoPmD6bm5znQUbW7))
+
+`web:` https://www.dianainitiative.org/
+
+[The Diana Initiative](https://www.dianainitiative.org/) is a diversity-driven conference, launched in 2016, committed to helping all underrepresented people in Information Security. [Learn more about The Diana Initiative...](https://www.dianainitiative.org/)
+
+COVID-19 policy: Masks and vaccination required.
 
 <br>
 
@@ -46,6 +64,7 @@ The [Black Hat](https://blackhat.com) conference features talks about security i
 * Buy and test a new, clean phone, with new accounts (optional)
 * Register for conference secure wifi
 * Prepare to stand and walk a lot (bring comfy shoes)
+* Bring a face mask (required for DEF CON, BSides, & The Diana Initiative)
 * Rest up for a few days before
 * Earmark some talks, villages, and events
 * Schedule time to eat and sleep

@@ -41,13 +41,15 @@ PHOTO CREDITS: @astcell / @MrB0t / Jeroen de Bakker
 <br>
 
 #### Hacker Summer Camp during COVID-19 [2022 Update]
-COVID-19 has had tremendous negative impacts on public health and society, including Hacker Summer Camp (i.e., Blackhat, DEFCON, and BSides Las Vegas). While going virtual frees conferences of certain constraints (space, geography, shipping, time windows), it imposes others (distance, isolation, network bandwidth). Online events have not yet found a way to evoke the same organic social interactions that physical ones do (if they ever will), so those aspects of events are the most heavily impacted. Fortunately for 2022, [BSides Las Vegas](bsideslv), [Black Hat](blackhat), [DEF CON](defcon), and its associated villages are **all returning to in-person activities**!
+COVID-19 has had tremendous negative impacts on public health and society, including Hacker Summer Camp (i.e., Blackhat, DEFCON, and BSides Las Vegas). While going virtual frees conferences of certain constraints (space, geography, shipping, time windows), it imposes others (distance, isolation, network bandwidth). Online events have not yet found a way to evoke the same organic social interactions that physical ones do (if they ever will), so those aspects of events are the most heavily impacted. Fortunately for 2022, [The Diana Initiative](dianainitiative), [BSides Las Vegas](bsideslv), [Black Hat](blackhat), [DEF CON](defcon), and its associated villages are **all returning to in-person activities**!
 
 **DEFCON 30**:`August 11-14, 2022` [Learn more...](defcon)
 
 **Black Hat**: `August 6-11, 2022` [Learn more...](blackhat)
 
 **BSides Las Vegas**:`August 9-10, 2022` [Learn more...](bsideslv)
+
+**The Diana Initiative**:`August 10-11, 2022` [Learn more...](dianainitiative)
 
 <br>
 ### Plan Your Trip to Hacker Summer Camp!
@@ -58,6 +60,6 @@ COVID-19 has had tremendous negative impacts on public health and society, inclu
 <br>
 ### Follow and Contribute
 
-Follow the action with [#lostpolicymaker](https://twitter.com/search?q=%23lostpolicymaker) and [#defconpolicy](https://twitter.com/search?q=%23defconpolicy) on your favorite social media outlets.
+Follow the [DEF CON Policy Department](https://twitter.com/DEFCONPolicy) to track the action. Engage with your fellow policymakers by using [#lostpolicymaker](https://twitter.com/search?q=%23lostpolicymaker) and [#defconpolicy](https://twitter.com/search?q=%23defconpolicy) on your favorite social media outlets.
 
 Contribute content on the [GitHub repository](https://github.com/lostpolicymaker/lostpolicymaker.github.io) by opening issues or making pull requests.
