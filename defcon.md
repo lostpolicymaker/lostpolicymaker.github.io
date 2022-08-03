@@ -46,10 +46,14 @@ Now in its 30th year, DEF CON draws 25,000-30,000 people and is usually held the
 >
 >They are the staff at DEF CON. They have many roles including safety, speaker coordination, vendor room coordination, network operations, et cetera... Please try to be helpful to them if they make requests of you. If any goon tells you to move, please do so immediately as there may be safety issues they are attempting to address.
 
+### DEF CON Health Policy
+DEF CON will have a mask requirement, but it will not check proof of vaccination. [Learn more](https://defcon.org/html/links/dc-news.html#dc30covid)
+
 ### DEF CON Resources
-* [DEF CON Talk Schedule](#) (not yet available, , check back in June!)
-* [DEF CON Villages](#) (not yet available, check back in June!)
-<!-- * [Official DEF CON Parties](https://www.defcon.org/html/defcon-27/dc-27-parties.html) !-->
-* [DEF CON Contests and Events](#) (not yet available, check back in June!)
-<!-- * [DEF CON Maps](https://www.defcon.org/html/defcon-27/dc-27-venue.html) !-->
+* [DEF CON Talk Schedule](https://defcon.org/html/defcon-30/dc-30-schedule.html)
+* [DEF CON Villages](https://forum.defcon.org/node/239770)
+* [Official DEF CON Parties](https://forum.defcon.org/node/239772)
+* [DEF CON Contests and Events](https://forum.defcon.org/node/239771)
+* [DEF CON Maps]((https://defcon.org/html/defcon-30/dc-30-venue.html) [Caesars Forum](https://defcon.org/images/defcon-30/maps/forum.webp) + [Flamingo](https://defcon.org/images/defcon-30/maps/flamingo.webp) + [Linq](https://defcon.org/images/defcon-30/maps/linq.webp)
+* [DEF CON Entertainment](https://defcon.org/html/defcon-30/dc-30-entertainment.html)
 * [DEF CON Forums](https://forum.defcon.org/node/231980)
