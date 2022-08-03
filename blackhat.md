@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lost Policymaker
-subtitle: Black Hat US 2020
+subtitle: Black Hat US 2022
 use-site-title: true
 ---
 
@@ -9,7 +9,7 @@ use-site-title: true
  when: August 6-11, 2022 (Trainings)
        August 10-11, 2022 (Briefings)
 where: Mandalay Bay Las Vegas + Virtual
-  web: https://blackhat.com/us-20
+  web: https://blackhat.com/us-22
 tweet: @BlackHatEvents
 ```
 <br />
@@ -26,9 +26,11 @@ Black Hat Trainings offer attendees individual technical courses on topics rangi
 
 From its inception in 1997, Black Hat has grown from a single annual conference in Las Vegas to a conference series held annually in the United States, Europe and Asia.
 
+### Black Hat Health Policy
+At this time, BlackHat has no requirements for vaccinations, masks, or other health measures. Attendees are advised to consider their personal health needs. [Learn more](https://www.blackhat.com/code-of-conduct.html)
 
 ### Black Hat Resources
-* [Black Hat Schedule (Trainings)](https://www.blackhat.com/us-22/training/schedule/index.html)
+* [Black Hat Schedule (Trainings)](https://www.blackhat.com/us-22/training/schedule/index.html) + [Map](https://i.blackhat.com/docs/usa/2022/BHUS22-Training-Map.pdf)
 * [Black Hat Schedule (Briefings)](https://www.blackhat.com/us-22/briefings/schedule/index.html)
 * [Black Hat Schedule (Arsenal)](https://www.blackhat.com/us-22/arsenal/schedule/index.html)
-* [Black Hat Business Hall](https://www.blackhat.com/us-22/business-hall.html)
+* [Black Hat Business Hall](https://www.blackhat.com/us-22/business-hall.html) + [Map](https://www.expocad.com/host/fx/ubm/22bhusa/exfx.html)
