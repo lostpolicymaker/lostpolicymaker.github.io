@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lost Policymaker
-subtitle: Overview of BSides Las Vegas 2019
+subtitle: Overview of BSides Las Vegas 2022
 use-site-title: true
 ---
 
@@ -29,8 +29,10 @@ The conference always has more demand than space, so for 2019 they’ve moved to
 
 BSides Las Vegas consists of several themed tracks, several of which have unique formats. The three tracks of interest to the public policy community are **Hire Ground**, **I Am The Cavalry**, and **Public Ground**. Hire Ground, is organized by a Virginia-based company that organizes hiring events for federal government employees and contractors. **I Am The Cavalry** runs an eponymous track, focused on cybersecurity impacts on human life and public safety, frequently addressing topics of interest to policymakers and others. **Public Ground** is a space for public policy conversations and interactions, with in-depth conversations that bridge the gap between policy and technology communities.
 
+### BSides Las Vegas Health Policy
+Masks will be required at all times in the indoor conference spaces, except when actively eating or drinking and for speakers while presenting. [Learn more](https://bsideslv.org/covid)
+
 ### BSides Las Vegas Resources
-Schedule will be uploaded in June!
-<!--* [BSides Las Vegas Interactive Schedule](https://www.bsideslv.org/schedule-2/)
-* [BSides Las Vegas Schedule At-A-Glance](https://www.bsideslv.org/wp-content/uploads/2019/07/20190719_BSLV2019_schedule_grid_WEB.pdf)
-* [BSides Las Vegas Map](https://www.bsideslv.org/conference-map/) --/>
+* [BSides Las Vegas Interactive Schedule](https://bsideslv.org/schedule)
+* [BSides Las Vegas Talks](https://www.bsideslv.org/talks)
+* [BSides Las Vegas Map](https://bsideslv.org/assets/bsideslv.map.2022.pdf)
