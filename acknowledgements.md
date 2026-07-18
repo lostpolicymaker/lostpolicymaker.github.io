@@ -11,7 +11,7 @@ This project is fully volunteer driven. While many dozens of people have provide
 
 ### Authors
 
-**Heather Blanchard** <span class="biossocial"><i class="fab fa-twitter"></i> [@poplifegirl](https://twitter.com/poplifegirl) / [#defconpolicy](https://twitter.com/search?q=%23defconpolicy) </span>  <br />
+**Heather Blanchard** <span class="biossocial"><i class="fab fa-twitter"></i> [@poplifegirl](https://twitter.com/poplifegirl) / [#defconpolicy](https://defcon.social/tags/defconpolicy) </span>  <br />
   Heather works on global innovation and ecosystem strategy and outreach for the wireless industry in San Francisco. She is the co-founder of CrisisCommons, a digital humanitarian community and served the U.S. Department of Homeland Security from 2003 - 2010, including as Business Liaison Director of Technology and Telecommunications for the Private Sector Office and external advisor to the DHS Silicon Valley Office. Since leaving government in 2010, Heather has volunteered as a Press Goon for DEF CON.
 <br /><br />
 **Allan Friedman** <span class="biossocial"><i class="fab fa-twitter"></i>[@allanfriedman](https://twitter.com/allanfriedman) </span> <br />

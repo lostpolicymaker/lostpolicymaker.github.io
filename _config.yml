@@ -31,9 +31,8 @@ navbar-links:
       url: blackhat
     - title: DEF CON
       url: defcon
-    - title: BSidesLV CANCELLED
+    - title: BSides Las Vegas
       url: bsideslv
-      disabled: yes
     - title: Hacker Villages
       url: villages
   - title: Acknowledgements

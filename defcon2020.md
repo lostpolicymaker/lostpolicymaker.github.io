@@ -1,31 +1,32 @@
 ---
 layout: page
 title: Lost Policymaker
-subtitle: DEF CON 34
+subtitle: DEF CON 28
 use-site-title: true
 ---
 
 ```
- when: August 6-9, 2026
-where: Las Vegas Convention Center (West Hall)
+ when: August 6-9, 2020
+where: Online
   web: https://defcon.org
+tweet: @defcon
 ```
 <br />
-### DEF CON 34
-DEF CON 34 takes place August 6-9, 2026 at the Las Vegas Convention Center West Hall, drawing roughly 30,000 hackers, security researchers, journalists, government officials, and curious minds from around the world. Admission is available through online pre-registration or with cash at the door, and comes with a custom designed badge, unique each year.
+### DEF CON 2020
+DEF CON 28: [Safe Mode](https://www.defcon.org/html/defcon-safemode/dc-safemode-faq.html) will take place entirely online, primarily through streaming and recorded talks, as well as realtime discussions via Discord. In 2020 the event will be entirely free for anyone to attend. Much of the organizing and planning is taking place on the [DEF CON Forums](https://forum.defcon.org/node/231980), and many of the [Hacker Villages](villages) will be hosting their own content as well.
 
-### Policy @ DEF CON
-DEF CON now runs a dedicated [Policy program](https://defcon.org/policy/) to help policymakers connect with the DEF CON community and tap into its expertise. The program includes Policy Debriefs on individual topics, intimate Community Roundtables held under Chatham House Rule, and an evening lounge where senior government officials, policy experts, security researchers, and technologists mix. If you work in public policy, this is your front door to the conference — reach the team at [policy@defcon.org](mailto:policy@defcon.org) or follow [@defconpolicy@defcon.social](https://defcon.social/@defconpolicy).
+The [DEF CON Policy Passport](#) (updated link coming soon) is like a "fast pass" for the conference, allowing members of the public policy community to register with dedicated support and orientation tools to help out.
 
 ### DEF CON Background
-The [DEF CON](https://defcon.org) conference began in 1993 as a party to celebrate the closing of a popular online network. The party got out of hand before it even started, as dozens of other groups were invited, and the organizers remodeled it based on other hacker conferences that had come before. The talks at the first event resemble what you might hear today: Talks from lawyers and law enforcement, gender and social issues in technology, technical explainers, and warnings about issues that would manifest in the future. DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith.
+The [DEF CON](https://defcon.org) ([@defcon](https://twitter.com/defcon)) conference began in 1993 as a party to celebrate the closing of a popular online network. The party got out of hand before it even started, as dozens of other groups were invited, and the organizers remodeled it based on other hacker conferences that had come before. The talks at the first event resemble what you might hear today: Talks from lawyers and law enforcement, gender and social issues in technology, technical explainers, and warnings about issues that would manifest in the future. DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith.
 
-Now in its fourth decade, DEF CON is usually held the first full weekend in August and is unlike typical conventions or trade shows.
+Now in its 27th year, DEF CON draws 25,000-30,000 people and is usually held the first full weekend in August, is unlike typical conventions or trade shows.
 
- * The DEF CON “[Villages](villages)” are self-contained spaces dedicated to single issues, such as privacy, social engineering, lockpicking, voting machines, artificial intelligence, and vehicles - that tend toward highly interactive demonstrations and hands-on hacking. There are now dozens of them, several run by year-round non-profit organizations.
+ * The DEF CON “Villages” are self-contained spaces dedicated to single issues, such as privacy, social engineering, lockpicking, voting machines, and vehicles - that tend toward highly interactive demonstrations and hands-on hacking.
  * The vendor hall is more akin to a techno-bazaar than a trade show floor, with storefronts selling tools or knowledge, civil society groups engaging directly with their stakeholders, and universities recruiting students.
  * DEF CON is one of the few conferences that drafts its own all-volunteer security staff from among its attendees, called the Goons, who always wear red shirts for easy identification.
- * The art and effort that have gone into the official badges have spawned a cultural trend called <a href="https://defcon.social/tags/badgelife">#badgelife</a>, where dozens of unofficial electronic badges and digital ecosystems have sprung up — now celebrated in its own Badgelife Village. Badgelife describes the grueling experience of creating a piece of hardware from concept to completion in 8-10 months.
+ * Conference admission is cash-only, and comes with a custom designed badge, unique each year.
+ * The art and effort that have gone into the official badges have spawned a cultural trend called <a href="https://twitter.com/hashtag/badgelife">#badgelife</a>, where dozens of unofficial electronic badges and digital ecosystems have sprung up. Badgelife describes the grueling experience of creating a piece of hardware from concept to completion in 8-10 months.
 
 ***In their own words***
 >“DEF CON is a hacker con, not an InfoSec conference. Hackers are more focused on the joy of discovery, irreverence, novel if impractical approaches. They are makers *and* breakers. InfoSec is more focused on enterprise, frameworks, and protecting the interests of share holders. There is great value in both types of content, but our con is a hacker con by design.”
@@ -47,8 +48,9 @@ Now in its fourth decade, DEF CON is usually held the first full weekend in Augu
 >They are the staff at DEF CON. They have many roles including safety, speaker coordination, vendor room coordination, network operations, et cetera... Please try to be helpful to them if they make requests of you. If any goon tells you to move, please do so immediately as there may be safety issues they are attempting to address.
 
 ### DEF CON Resources
-* [Policy @ DEF CON](https://defcon.org/policy/)
-* [DEF CON 34 Villages](https://defcon.org/html/defcon-34/dc-34-villages.html) (see also [our guide to the Villages](villages))
-* [DEF CON 34 Parties, Meetups, and Events](https://defcon.org/html/defcon-34/dc-34-pmne.html)
-* [DEF CON 34 Communities](https://defcon.org/html/defcon-34/dc-34-communities.html)
-* [DEF CON Forums](https://forum.defcon.org/node/253965)
+* [DEF CON Talk Schedule](#) (not yet available)
+* [DEF CON Villages](#) (not yet available)
+<!-- * [Official DEF CON Parties](https://www.defcon.org/html/defcon-27/dc-27-parties.html) !-->
+* [DEF CON Contests and Events](#) (not yet available)
+<!-- * [DEF CON Maps](https://www.defcon.org/html/defcon-27/dc-27-venue.html) !-->
+* [DEF CON Forums](https://forum.defcon.org/node/231980)
