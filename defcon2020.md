@@ -15,7 +15,7 @@ tweet: @defcon
 ### DEF CON 2020
 DEF CON 28: [Safe Mode](https://www.defcon.org/html/defcon-safemode/dc-safemode-faq.html) will take place entirely online, primarily through streaming and recorded talks, as well as realtime discussions via Discord. In 2020 the event will be entirely free for anyone to attend. Much of the organizing and planning is taking place on the [DEF CON Forums](https://forum.defcon.org/node/231980), and many of the [Hacker Villages](villages) will be hosting their own content as well.
 
-The [DEF CON Policy Passport](#) (updated link coming soon) is like a "fast pass" for the conference, allowing members of the public policy community to register with dedicated support and orientation tools to help out.
+The [DEF CON Policy Passport](https://bit.ly/DC28PolicyReg) is like a "fast pass" for the conference, allowing members of the public policy community to register with dedicated support and orientation tools to help out.
 
 ### DEF CON Background
 The [DEF CON](https://defcon.org) ([@defcon](https://twitter.com/defcon)) conference began in 1993 as a party to celebrate the closing of a popular online network. The party got out of hand before it even started, as dozens of other groups were invited, and the organizers remodeled it based on other hacker conferences that had come before. The talks at the first event resemble what you might hear today: Talks from lawyers and law enforcement, gender and social issues in technology, technical explainers, and warnings about issues that would manifest in the future. DEF CON remains an open space for intellectual exploration, open to all those who want to participate in good faith.
