@@ -20,29 +20,37 @@ description: A resource for public policy community attending hacker conferences
 
 # List of links in the navigation bar
 navbar-links:
-  - title: Hacker Summer Camp
+  - title: The Conferences
     url: #
     sublinks:
-    - title: Dates and Locations
-      url: datesandlocations
-    - title: Planning Your Trip
-      url: planningyourtrip
     - title: Black Hat USA 2026
       url: blackhat
-    - title: DEF CON 34
-      url: defcon
     - title: BSidesLV 2026
       url: bsideslv
+    - title: DEF CON 34
+      url: defcon
     - title: Hacker Villages
       url: villages
     - title: Side Events
       url: sideevents
-  - title: Hacker Culture 101
-    url: hackerculture101
+  - title: Plan Your Trip
+    url: #
+    sublinks:
+    - title: Dates and Locations
+      url: datesandlocations
+    - title: Safety and Security
+      url: planningyourtrip
+  - title: Resources
+    url: #
+    sublinks:
+    - title: Hacker Culture 101
+      url: hackerculture101
+    - title: The DEFRAG Film
+      url: hackerculture101#the-defrag-film
+    - title: The Guide [2019]
+      url: guide
   - title: Acknowledgements
     url: acknowledgements
-  - title: The Guide [2019]
-    url: guide
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

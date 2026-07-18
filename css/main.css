@@ -672,6 +672,9 @@ pre {
   font-size: 16px;
   line-height: 1.5em;
 }
+.highlight {
+  margin: 25px 0;
+}
 .highlight pre {
   border: none;
   background: none;

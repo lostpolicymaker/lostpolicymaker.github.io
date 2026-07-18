@@ -11,7 +11,7 @@ use-site-title: true
 where: Mandalay Bay Convention Center, Las Vegas
   web: https://blackhat.com/us-26/
 ```
-<br />
+
 ### Black Hat USA 2026
 Black Hat USA returns to the Mandalay Bay Convention Center August 1-6, 2026. Trainings run August 1-4, followed by the two-day Briefings August 5-6, alongside the Arsenal open-source tool demos and a sprawling Business Hall.
 

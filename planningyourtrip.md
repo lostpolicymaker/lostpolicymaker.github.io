@@ -5,7 +5,7 @@ subtitle: Planning a Secure Trip to Hacker Summer Camp
 use-site-title: true
 ---
 
-The Lost Policymaker worked with [Marc Rogers](http://marcrogers.org), who led DEF CON physical and network security for over a decade, to cut through the FUD (Fear, Uncertainty, and Doubt) about security and safety at Hacker Summer Camp. There's a lot of #baddefconadvice out there to avoid, but not much recent, authoritative guidance on what really works to keep you safe and secure.
+The Lost Policymaker worked with [Marc Rogers](http://marcrogers.org) ([@cjunky](https://bsky.app/profile/cjunky.bsky.social)), who has led DEF CON physical and network security for over a decade, to cut through the FUD (Fear, Uncertainty, and Doubt) about security and safety at Hacker Summer Camp. There's a lot of #baddefconadvice out there to avoid, but not much recent, authoritative guidance on what really works to keep you safe and secure.
 
 ### The bottom line
 * **Paper and plastic.** Though DEF CON offers online pre-registration and many conference vendors accept credit cards, several are still cash only (and cash at the door still works for badges). Casinos have the world’s most surveilled ATMs, so they’re a pretty safe bet these days - though avoid any that look temporary.

@@ -27,6 +27,19 @@ Security researchers have diverse motivations for investigating security flaws i
 
 <hr>
 
+### The DEFRAG Film: Hackers Unscripted
+{: #the-defrag-film}
+
+How has cinema shaped what the world thinks a hacker is — and what has that meant for actual hackers? *Hackers Unscripted*, a short documentary from [DEFRAG, Columbia University's hacked film festival](https://www.sipa.columbia.edu/defrag-film-festival), explores the intertwined relationship between cinema and real-world hacking, and the impact those portrayals have had on the hacking community and the world.
+
+<p>
+  <a href="https://www.youtube.com/watch?v=NYvHWcQsIRE"><img src="https://img.youtube.com/vi/NYvHWcQsIRE/hqdefault.jpg" alt="Watch Hackers Unscripted on YouTube" class="img-thumbnail" style="max-width: 480px; width: 100%;"></a>
+</p>
+
+<a class="btn btn-outline-dark" href="https://www.youtube.com/watch?v=NYvHWcQsIRE">&#9654;&nbsp; Watch Hackers Unscripted on YouTube (9 min)</a>
+
+<hr>
+
 ### Some Great Hacker Movies
 * **[War Games](https://www.imdb.com/title/tt0086567/)**: *"It features similar technology and techniques from when I was getting started in computers, and has some really accurate characters. Plus, the hero goes from Puzzler to Protector when he realizes the stakes of the game.” @BEAUWOODS*
 * **[The Martian](https://www.imdb.com/title/tt3659388/?ref_=fn_al_tt_1)**: *"It shows a hacker as a problem solver. If there would have been practical jokes in the movie it would have been a perfect showcase for the meaning of the word ‘hacker’.” @ihackforfun*

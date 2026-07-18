@@ -10,7 +10,7 @@ use-site-title: true
 where: Las Vegas Convention Center (West Hall)
   web: https://defcon.org
 ```
-<br />
+
 ### DEF CON 34
 DEF CON 34 takes place August 6-9, 2026 at the Las Vegas Convention Center West Hall, drawing roughly 30,000 hackers, security researchers, journalists, government officials, and curious minds from around the world. Admission is available through online pre-registration or with cash at the door, and comes with a custom designed badge, unique each year.
 

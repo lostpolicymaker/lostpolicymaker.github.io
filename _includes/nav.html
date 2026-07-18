@@ -12,8 +12,8 @@
       {% for link in site.navbar-links %}
         {% if link.sublinks %}
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link.title }}</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link.title }}</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown{{ forloop.index }}">
               {% for childlink in link.sublinks %}
                 {% if childlink.disabled %}
                   <a class="dropdown-item disabled" href="{{ childlink.url | relative_url }}">{{ childlink.title }}</a>
