@@ -180,40 +180,17 @@
 </style>
 
 <script>
-  function isVisible(el) {
-        while (el) {
-            if (el === document) {
-                return true;
-            }
-
-            var $style = window.getComputedStyle(el, null);
-
-            if (!el) {
-                return false;
-            } else if (!$style) {
-                return false;
-            } else if ($style.display === 'none') {
-                return false;
-            } else if ($style.visibility === 'hidden') {
-                return false;
-            } else if (+$style.opacity === 0) {
-                return false;
-            } else if (($style.display === 'block' || $style.display === 'inline-block') &&
-                $style.height === '0px' && $style.overflow === 'hidden') {
-                return false;
-            } else {
-                return $style.position === 'fixed' || isVisible(el.parentNode);
-            }
-        }
-  }
   {% if include.duration %}
+  // Advance by setting the radio input state directly. Using click() here
+  // dispatches a document-level click that closes any open navbar dropdown.
   setInterval(function(){
-    var j=0;
-    var elements = document.querySelectorAll('#carousel{{ number}} .carousel__control--forward');
-    for(i=(elements.length - 1);i>-1;i--) {
-      if(isVisible(elements[i])) j=i;
+    var inputs = document.querySelectorAll('#carousel{{ number }} .carousel__activator');
+    if (!inputs.length) return;
+    var current = 0;
+    for (var i = 0; i < inputs.length; i++) {
+      if (inputs[i].checked) current = i;
     }
-    elements[j].click();
-  },{{ include.duration }}000);
+    inputs[(current + 1) % inputs.length].checked = true;
+  }, {{ include.duration }}000);
   {% endif %}
 </script>

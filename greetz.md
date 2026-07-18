@@ -1,7 +1,9 @@
 ---
 layout: acks
-title: Acknowledgements
+title: Greetz
 subtitle: The people who helped make this happen
+redirect_from:
+  - /acknowledgements/
 ---
 
 This project is fully volunteer driven. While many dozens of people have provided feedback and support, this initiative would not exist without the help of a few of these people.
@@ -10,26 +12,25 @@ This project is fully volunteer driven. While many dozens of people have provide
 >-- Margaret Mead
 
 ### Authors
-*Bios as of the original 2019 edition.*
 
 **Heather Blanchard** <span class="biossocial"><i class="fab fa-bluesky"></i> [@poplifegirl](https://bsky.app/profile/poplifegirl.bsky.social) / [#defconpolicy](https://defcon.social/tags/defconpolicy) </span>  <br />
-  Heather works on global innovation and ecosystem strategy and outreach for the wireless industry in San Francisco. She is the co-founder of CrisisCommons, a digital humanitarian community and served the U.S. Department of Homeland Security from 2003 - 2010, including as Business Liaison Director of Technology and Telecommunications for the Private Sector Office and external advisor to the DHS Silicon Valley Office. Since leaving government in 2010, Heather has volunteered as a Press Goon for DEF CON.
+  Heather is an innovation strategist working on global ecosystem strategy and outreach for the wireless industry. She is the co-founder of CrisisCommons, a digital humanitarian community, and served the U.S. Department of Homeland Security from 2003 - 2010, including as Business Liaison Director of Technology and Telecommunications for the Private Sector Office. Since leaving government, Heather has volunteered as a Press Goon for DEF CON.
 <br /><br />
 **Allan Friedman** <span class="biossocial"><i class="fab fa-bluesky"></i> [@allanfriedman](https://bsky.app/profile/allanfriedman.bsky.social) </span> <br />
-  Allan Friedman is Director of Cybersecurity at National Telecommunications and Information Administration in the US Department of Commerce. Prior to joining the Federal Government, Friedman spent over 15 years as a noted InfoSec and tech policy scholar at Harvard’s Computer Science Department, the Brookings Institution and George Washington University’s Engineering School. He is the co-author of the popular text [Cybersecurity and Cyberwar: What Everyone Needs to Know](https://www.cybersecurityandwar.com/), has a degree in computer science from Swarthmore College and a PhD in public policy from Harvard University, and is quite friendly for a failed professor-turned-technocrat.
+  Allan Friedman led the global Software Bill of Materials (SBOM) movement over a decade in public service at CISA and NTIA, transforming SBOM from a niche idea into a pillar of cybersecurity policy, before returning to the private sector in 2025. Before government, Friedman spent over 15 years as a noted InfoSec and tech policy scholar at Harvard’s Computer Science Department, the Brookings Institution, and George Washington University’s Engineering School. He is the co-author of [Cybersecurity and Cyberwar: What Everyone Needs to Know](https://www.cybersecurityandwar.com/), has a degree in computer science from Swarthmore College and a PhD in public policy from Harvard University, and is quite friendly for a failed professor-turned-technocrat.
 <br /><br />
 **Ayan Islam** <span class="biossocial"><i class="fab fa-twitter"></i> [@ayanmislam](https://twitter.com/ayanmislam) </span> <br />
-  Ayan enjoys leveraging her multi-disciplinary skill set (legal, policy, and stakeholder engagement) to solve problems and advance causes that improve public safety. She is a member of I Am The Cavalry (IATC) and the Cybersecurity and Emerging Technologies Working Group for the Women of Color Advancing Peace and Security (WCAPS). On the [IATC scale](https://www.iamthecavalry.org/motivations), Ayan is a Puzzler and Protector.
+  Ayan enjoys leveraging her multi-disciplinary skill set (legal, policy, and stakeholder engagement) to solve problems and advance causes that improve public safety. She has served as White House Director of Cyber Workforce at the Office of the National Cyber Director, led critical infrastructure work at CISA, and directed cybersecurity policy at the R Street Institute; she also teaches cybersecurity policy at American University. Ayan is a member of I Am The Cavalry (IATC) - on the [IATC scale](https://www.iamthecavalry.org/motivations), she is a Puzzler and Protector.
 <br /><br />
 **Andrea Little Limbago** <span class="biossocial"><i class="fab fa-twitter"></i> [@limbagoa](https://twitter.com/limbagoa) </span> <br />
-  Andrea is the Chief Social Scientist at Virtru. She has taught conflict studies in academia, was a technical lead in the Department of Defense, and most recently has worked at several startups integrating social science methods for analyses on attacker trends, human-computer interaction, digital authoritarianism, and security culture. Andrea earned a PhD in Political Science from the University of Colorado at Boulder and a BA from Bowdoin College.
+  Andrea is a computational social scientist specializing in the intersection of technology, national security, and society, leading applied AI research on global supply chain risk. She has been chief social scientist at several security companies, taught conflict studies in academia, was a technical lead in the Department of Defense, and is a Senior Fellow at George Mason's National Security Institute. Andrea earned a PhD in Political Science from the University of Colorado at Boulder and a BA from Bowdoin College.
 <br /><br />
 **Whitney Merrill** <span class="biossocial"><i class="fab fa-bluesky"></i> [@wbm312](https://bsky.app/profile/wbm312.bsky.social) </span> <br />
-  Whitney is a privacy and information security attorney and technologist. Previously, she served in government as an attorney at the Federal Trade Commission, where she worked on a variety of consumer protection matters including data security, privacy and deceptive marketing and advertising. She was also a member of the NSF’s [CyberCorps](https://www.sfs.opm.gov/). She also runs the Crypto & Privacy Village, which appears at DEF CON and BSidesSF.
+  Whitney is a privacy and information security attorney and technologist, leading privacy and data protection for a major tech company. Previously, she served in government as an attorney at the Federal Trade Commission, where she worked on consumer protection matters including data security, privacy, and deceptive marketing. She founded and long ran the Crypto & Privacy Village at DEF CON and BSidesSF.
 <br /><br />
 **Beau Woods** <span class="biossocial"><i class="fab fa-bluesky"></i> [@beauwoods.com](https://bsky.app/profile/beauwoods.com) </span> <br />
   <span class="acktitle">Editor / Coordinating Author</span> <br />
-  Beau wears a lot of hats, all white. He has hacked medical devices, won Best Mustache at Movember London, and evaded Mafiosi near Moscow. Beau is also a leader with I Am The Cavalry, an Atlantic Council Fellow, DEF CON Goon, Village organizer, BSidesLV staff, has a BS in Psychology from Georgia Tech, and lives in DC.
+  Beau wears a lot of hats, all white. He has hacked medical devices, won Best Mustache at Movember London, and evaded Mafiosi near Moscow. Beau is the founder of Stratigos Security, lead for Policy @ DEF CON, a leader with I Am The Cavalry, a Cyber Safety Innovation Fellow with the Atlantic Council, and has advised CISA, the FDA, Congress, and the White House. He has a BS in Psychology from Georgia Tech and lives in DC.
 
 ### Production and other support
 * [Winnona DeSombre Bernsen](https://bsky.app/profile/winnona.bsky.social) - 2022 edition updates
