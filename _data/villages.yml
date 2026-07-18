@@ -1,162 +1,88 @@
-# DEF CON 34 (2026) Village roster. Source: https://defcon.org/html/defcon-34/dc-34-villages.html
+# Curated DEF CON 34 (2026) Villages for the public policy community,
+# ordered roughly by how useful a policy visitor is likely to find them.
+# Full official roster: https://defcon.org/html/defcon-34/dc-34-villages.html
 # img is optional - files live in img/villages/
-
-- name: Adversary Village
-  link: https://adversaryvillage.org
-  description: Focuses on adversary simulation and emulation, offensive cybersecurity, and purple teaming.
-
-- name: Aerospace Village
-  link: https://aerospacevillage.org
-  img: SecureAerospace.jpg
-  description: Promotes collaboration between the aviation and space industries and security researchers, working toward safe, reliable, and trustworthy air and space travel.
-
-- name: AI Village
-  link: https://aivillage.org
-  img: aivillage_dc.jpg
-  description: Practical AI security training with hands-on workshops and large language model exploitation challenges. Home of the AI red-teaming exercises that have drawn policymaker attention worldwide.
-
-- name: AppSec Village
-  link: https://appsecvillage.com
-  description: Teaches modern software vulnerabilities, exploitation, and secure coding practices, with talks, workshops, and an application-security-focused capture the flag.
-
-- name: Badgelife Village
-  link: https://badge.life
-  description: Showcases the community-made electronic badge scene, with a badge museum, trading, and creation workshops.
-
-- name: Biohacking Village
-  link: https://villageb.io
-  img: dc_bhv.jpg
-  description: Hands-on healthcare and medical device security training in a lab environment, creating a safe space for individuals across the healthcare ecosystem in the service of public health and wellness.
-
-- name: Blacks In Cyber Village
-  link: https://blacksincyberconf.com/bic-village
-  description: Highlights Black experiences and innovations in cybersecurity through talks, community, and a capture the flag.
-
-- name: Blue Team Village
-  link: https://blueteamvillage.org
-  description: A community space for defensive cybersecurity professionals, tactics, and training.
-
-- name: Bug Bounty Village
-  link: https://bugbountydefcon.com
-  description: Hosts the bug bounty hunter community with talks, workshops, and competitive challenges.
-
-- name: Call Center Village
-  link: https://callcentervillage.com
-  description: Explores voice security, deepfakes, conversational AI, and social engineering targeting call centers.
-
-- name: Car Hacking Village
-  link: https://carhackingvillage.com
-  img: carhackvillage.jpg
-  description: Hands-on vehicle exploitation with live CAN bus and wireless access, where security researchers work together with the automotive industry to improve the security - and safety - of modern vehicles.
-
-- name: Cloud Village
-  link: https://cloud-village.org
-  description: An open platform for cloud security researchers featuring talks, tool demos, workshops, and a two-day capture the flag across the major cloud providers.
-
-- name: Crypto & Privacy Village
-  link: https://cryptovillage.org
-  img: CryptoVillage.jpg
-  description: Education on cryptography and privacy issues, from the latest technical techniques to public policy discussions.
-
-- name: Cryptocurrency Village
-  link: https://cryptocurrencyvillage.cc
-  description: A deep dive into breaking cryptocurrency systems, smart contracts, and blockchain protocols.
-
-- name: Data Duplication Village
-  link: https://dcddv.org
-  description: Provides access to terabytes of security conference talks and research archives - bring your own drive.
-
-- name: Embedded Systems Village
-  link: https://embeddedvillage.org
-  description: Community learning on analyzing embedded devices and identifying vulnerabilities in the systems all around us.
-
-- name: Game Hacking Village
-  link: https://gamehacking.gg
-  description: Hands-on game security with reversing, modding, and exploitation across platforms.
-
-- name: Ham Radio Village
-  link: https://hamvillage.org
-  description: Amateur radio education continuing the original hacker tradition, from getting licensed to hacking hardware and antenna design.
-
-- name: Hardware Hacking & Soldering Skills Village
-  link: https://dchhv.org
-  description: Interactive hardware hacking demos, challenges, and soldering skill development for all experience levels.
-
-- name: ICS Village
-  link: https://icsvillage.com
-  img: ICS_Village.jpg
-  description: Equips industry and policymakers to better defend industrial control systems through experiential awareness, education, and training on simulated environments.
-
-- name: IoT Village
-  link: https://iotvillage.org
-  description: Expert talks, hands-on labs, and live bug hunting for Internet of Things security vulnerabilities.
-
-- name: Lock Pick Village
-  link: https://toool.us
-  img: toool.png
-  description: One of the most hands-on experiences at DEF CON, run by TOOOL. Participants learn to defeat the most prevalent physical security protections, often picking their first lock in under five minutes.
-
-- name: Maker's Village
-  link: https://makersvillage.space
-  description: An artistic creative lab with 3D printing, laser cutting, and fabrication techniques.
-
-- name: Malware Village
-  link: https://malwarevillage.org
-  description: A safe environment for malware analysis training with hands-on techniques and networking.
-
-- name: Maritime Hacking Village
-  link: https://maritimehackingvillage.com
-  description: Immersive maritime systems exploitation and defense training, protecting the critical infrastructure behind trillions of dollars of global commerce.
-
-- name: Packet Hacking Village
-  link: https://wallofsheep.com
-  description: Network security and forensics training, home of the infamous "Wall of Sheep" and packet analysis contests.
-
-- name: Payment Village
-  link: https://paymentvillage.org
-  description: Payment technology education with workshops, challenges, and hands-on experiences.
-
-- name: Physical Security Village
-  link: https://physsec.org
-  description: Explores hardware bypasses, elevator hacking, and alarm system attacks with hands-on models and demonstrations.
 
 - name: Policy @ DEF CON
   link: https://defcon.org/policy/
-  description: Brings together policymakers and security professionals for tech policy collaboration, with Policy Debriefs, Community Roundtables under Chatham House Rule, and an evening lounge. Start here if you work in public policy.
-
-- name: Quantum Village
-  link: https://quantumvillage.org
-  description: Open quantum hardware access and design opportunities, with talks, workshops, and hands-on activities in quantum technology and security.
-
-- name: Radio Frequency Village
-  link: https://rfhackers.com
-  description: RF security training including software-defined radio, WiFi, Bluetooth, Zigbee, and other wireless protocols.
-
-- name: Recon Village
-  link: https://reconvillage.org
-  description: Reconnaissance and open-source intelligence training with live demos, capture the flags, and geospatial intelligence.
-
-- name: Red Team Village
-  link: https://redteamvillage.io
-  description: Offensive security tactics and strategy training, with an immersive capture the flag competition.
-
-- name: Scambait Village
-  link:
-  description: Training in scambaiting, open-source intelligence, and counter-fraud techniques against scam call centers.
-
-- name: Social Engineering Community Village
-  link: https://se.community
-  description: Human-focused hacking through psychology and tactics, featuring live vishing (voice phishing) competitions.
-
-- name: Tamper-Evident Village
-  link:
-  description: Teaches how tamper-evident seals work - and how they can be defeated - through hands-on contests.
-
-- name: Telecom Village
-  link: https://telecomvillage.com
-  description: 4G/5G network security, signaling systems, and telecom threat detection.
+  img: policy.png
+  description: The conference's own program for the public policy community - Policy Debriefs, Community Roundtables under Chatham House Rule, and an evening lounge where senior officials, researchers, and hackers mix. If you work in public policy, start here.
 
 - name: Voting Village
   link:
   img: VotingVillageDC.jpg
-  description: Hands-on election security with real voting machines, exploring election infrastructure from technical and public policy perspectives.
+  description: Hands-on election security with real voting machines, exploring election infrastructure from technical and public policy perspectives. A fixture of election security policy debates since 2017 - come see the machines yourself.
+
+- name: AI Village
+  link: https://aivillage.org
+  img: aivillage_dc.jpg
+  description: Hands-on AI security workshops and large language model exploitation challenges. Home of the AI red-teaming exercises that have shaped government thinking on AI evaluation - if you work on AI policy, this is where the rubber meets the road.
+
+- name: ICS Village
+  link: https://icsvillage.com
+  img: ICS_Village.jpg
+  description: Equips industry and policymakers to better defend industrial control systems through hands-on training on simulated environments. Built with policymakers in mind - the fastest way to understand critical infrastructure security debates.
+
+- name: Biohacking Village
+  link: https://villageb.io
+  img: dc_bhv.jpg
+  description: Healthcare and medical device security in a hands-on lab environment. Essential for anyone working on FDA device regulation, hospital cybersecurity, or health sector resilience - the village has long partnered with regulators and manufacturers.
+
+- name: Aerospace Village
+  link: https://aerospacevillage.org
+  img: SecureAerospace.jpg
+  description: Security researchers and the aviation and space industries working together toward safe, reliable, and trustworthy air travel. Directly relevant to aviation cybersecurity policy, airworthiness standards, and the fast-growing commercial space sector.
+
+- name: Car Hacking Village
+  link: https://carhackingvillage.com
+  img: carhackvillage.jpg
+  description: Hands-on vehicle exploitation with live CAN bus and wireless access, in collaboration with the automotive industry. Relevant to vehicle safety regulation, right-to-repair debates, and connected car privacy.
+
+- name: Crypto & Privacy Village
+  link: https://cryptovillage.org
+  img: CryptoVillage.jpg
+  description: Cryptography and privacy, from the latest technical techniques to public policy discussions. The place to pressure-test encryption policy, surveillance, and privacy legislation with people who build and break these systems.
+
+- name: IoT Village
+  link: https://iotvillage.org
+  img: iot.png
+  description: Expert talks, hands-on labs, and live bug hunting in Internet of Things devices. Directly relevant to IoT security legislation, labeling programs like the Cyber Trust Mark, and consumer device standards.
+
+- name: Bug Bounty Village
+  link: https://bugbountydefcon.com
+  img: bugbounty.png
+  description: The bug bounty hunter community, with talks, workshops, and competitive challenges. Directly relevant to coordinated vulnerability disclosure policy, safe harbor protections, and hacker liability law.
+
+- name: Maritime Hacking Village
+  link: https://maritimehackingvillage.com
+  img: maritime.png
+  description: Immersive maritime systems exploitation and defense training. Ports, shipping, and vessels are critical infrastructure carrying trillions in global commerce - this village is where their security gaps get demonstrated.
+
+- name: Telecom Village
+  link: https://telecomvillage.com
+  img: telecom.png
+  description: 4G/5G network security, signaling systems, and telecom threat detection. Timely grounding for telecom security policy in an era of carrier breaches and 5G supply chain debates.
+
+- name: Quantum Village
+  link: https://quantumvillage.org
+  img: quantum.png
+  description: Open quantum hardware access, talks, and hands-on activities in quantum technology and security. Where post-quantum cryptography migration and quantum policy meet the people doing the work.
+
+- name: Social Engineering Community Village
+  link: https://se.community
+  img: socialeng.png
+  description: Human-focused hacking through psychology and tactics, featuring live vishing (voice phishing) competitions. Watch a live call and you'll never think about fraud policy, or your own inbox, the same way.
+
+- name: Recon Village
+  link: https://reconvillage.org
+  img: recon.png
+  description: Reconnaissance and open-source intelligence, with live demos and capture the flags. An eye-opening look at how much personal and organizational data is publicly discoverable - fuel for privacy and data broker policy.
+
+- name: Tamper-Evident Village
+  link:
+  description: How tamper-evident seals work - and how they can be defeated - through hands-on contests. Sobering context for anyone who relies on seals in elections, evidence handling, or supply chain integrity.
+
+- name: Lock Pick Village
+  link: https://toool.us
+  img: toool.png
+  description: One of the most hands-on experiences at DEF CON, run by TOOOL. Pick your first lock in under five minutes and gain a visceral understanding of why physical security - and security generally - is more nuanced than it looks.
