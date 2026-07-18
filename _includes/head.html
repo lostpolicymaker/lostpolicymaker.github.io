@@ -1,7 +1,6 @@
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
@@ -13,9 +12,7 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ '/feed.xml' | absolute_url }}" />
 
-  {% include gtag.html %}
   {% include gtm_head.html %}
-  {% include google_analytics.html %}
 
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
@@ -31,7 +28,7 @@
 
   {% if layout.common-googlefonts %}
     {% for font in layout.common-googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ font }}" />
     {% endfor %}
   {% endif %}
 
@@ -49,7 +46,7 @@
 
   {% if page.googlefonts %}
     {% for font in page.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ font }}" />
     {% endfor %}
   {% endif %}
 
@@ -119,17 +116,8 @@
   <meta name="twitter:image" content="{{ site.avatar | absolute_url }}" />
   {% endif %}
 
-  {% if site.matomo %}
-  {% include matomo.html %}
-  {% endif %}
-
-  {% if page.comments and site.staticman.repository and site.staticman.branch %}
-  <!-- Staticman -->
-  <link rel="stylesheet" href="{{ "/css/staticman.css" | relative_url }}" />
-  {% endif %}
-
-  <!--Font-Awesome for Twitter/Insta icons -->
-  <script src="https://kit.fontawesome.com/93f1969847.js"></script>
+  <!-- Font Awesome for social icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/css/all.min.css">
 
   <!-- Favicons -->
   <link rel="shortcut icon" type="image/png" href="/icons/favicon.png">
