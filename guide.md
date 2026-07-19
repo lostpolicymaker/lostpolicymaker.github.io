@@ -3,9 +3,9 @@ layout: embed
 use-site-title: true
 ---
 
-<p class="text-center"><em>This is the original 2019 edition of the Guide, preserved for posterity. Much has changed since — see <a href="datesandlocations">Dates and Locations</a> and the <a href="index">event pages</a> for current dates, venues, and details.</em></p>
+<p class="text-center"><em>This is the OG Guide — the original 2019 edition, preserved for posterity as a historical artifact. Much has changed since — see <a href="datesandlocations">Dates and Locations</a> and the <a href="index">event pages</a> for current dates, venues, and details.</em></p>
 
-<center><a href="https://lostpolicymaker.org/LostPolicymaker_HackerSummerCamp_2019.pdf" class="btn btn-outline-dark" type="button">Download the Guide (2019 edition)</a></center>
+<center><a href="https://lostpolicymaker.org/LostPolicymaker_HackerSummerCamp_2019.pdf" class="btn btn-outline-dark" type="button">Download the OG Guide [2019]</a></center>
 
 <p></p>
 

@@ -84,13 +84,15 @@
 
   {% if page.share-img %}
   <meta property="og:image" content="{{ page.share-img }}" />
+  {% elsif site.share-img %}
+  <meta property="og:image" content="{{ site.share-img | absolute_url }}" />
   {% elsif site.avatar %}
   <meta property="og:image" content="{{ site.avatar | absolute_url }}" />
   {% endif %}
 
 
   <!-- Twitter summary cards -->
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="{% if page.share-img or site.share-img %}summary_large_image{% else %}summary{% endif %}" />
   <meta name="twitter:site" content="@{{ site.author.twitter }}" />
   <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
 
@@ -112,6 +114,8 @@
 
   {% if page.share-img %}
   <meta name="twitter:image" content="{{ page.share-img }}" />
+  {% elsif site.share-img %}
+  <meta name="twitter:image" content="{{ site.share-img | absolute_url }}" />
   {% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.avatar | absolute_url }}" />
   {% endif %}

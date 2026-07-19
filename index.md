@@ -5,18 +5,18 @@ subtitle: Guide to Hacker Conferences
 use-site-title: true
 carousels:
   - images:
-    - image: /img/slider/image13.png
-    - image: /img/slider/image12.png
-    - image: /img/slider/image11.png
-    - image: /img/slider/image10.png
-    - image: /img/slider/image8.png
-    - image: /img/slider/image7.png
-    - image: /img/slider/6.png
-    - image: /img/slider/5.png
-    - image: /img/slider/4.png
-    - image: /img/slider/3.png
-    - image: /img/slider/2.png
-    - image: /img/slider/1.png
+    - image: /img/slider/image13.jpg
+    - image: /img/slider/image12.jpg
+    - image: /img/slider/image11.jpg
+    - image: /img/slider/image10.jpg
+    - image: /img/slider/image8.jpg
+    - image: /img/slider/image7.jpg
+    - image: /img/slider/6.jpg
+    - image: /img/slider/5.jpg
+    - image: /img/slider/4.jpg
+    - image: /img/slider/3.jpg
+    - image: /img/slider/2.jpg
+    - image: /img/slider/1.jpg
 ---
 
 ### About the Lost Policymaker Guide

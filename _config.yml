@@ -11,7 +11,7 @@ description: A resource for public policy community attending hacker conferences
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://lostpolicymaker.org"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -47,7 +47,7 @@ navbar-links:
       url: hackerculture101
     - title: The DEFRAG Film
       url: hackerculture101#the-defrag-film
-    - title: The Guide [2019]
+    - title: The OG Guide [2019]
       url: guide
   - title: Greetz
     url: greetz
@@ -68,8 +68,8 @@ navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+link-col: "#0d827c"   # accessible shade of the site's signature teal
+hover-col: "#095e5a"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
@@ -120,6 +120,9 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "lostpolicymaker.org"  # eg. "deanattali.com/beautiful-jekyll"
+
+# Social share card shown when pages are linked on social media / chat apps
+share-img: "/img/share-card.png"
 
 # --- Web Statistics Section --- #
 
