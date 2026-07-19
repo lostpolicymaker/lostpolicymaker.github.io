@@ -9,11 +9,11 @@ The Hacker Village concept originated with DEF CON as self-contained spaces for 
 
 {% for village in site.data.villages %}
 
-<div class="media">
+<div class="d-flex">
   {% if village.img %}
-  <img src="../img/villages/{{village.img}}" width="64" height="64" class="embed-responsive-item align-self-start mr-3 mt-4" alt="{{village.name}} logo">
+  <img src="../img/villages/{{village.img}}" width="64" height="64" class="align-self-start me-3 mt-4" alt="{{village.name}} logo">
   {% endif %}
-  <div class="media-body">
+  <div class="flex-grow-1">
     <p><b>{% if village.link %}<a href="{{village.link}}">{{village.name}}</a>{% else %}{{village.name}}{% endif %}</b> <br />
     {{village.description}}</p>
   </div>

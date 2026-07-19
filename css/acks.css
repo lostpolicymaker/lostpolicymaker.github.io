@@ -1,14 +1,17 @@
-/* Acknowledgements Page Only */
+/* Greetz Page Only */
 
-.biossocial {
-  color: #20cfc6;
+.biossocial,
+.biossocial a,
+.acktitle {
+  color: #0d827c;
 }
 
 .biossocial a {
-  color: #20CFC6;
   font-family: monospace;
 }
 
-.acktitle {
-  color: #20CFC6;
+[data-bs-theme="dark"] .biossocial,
+[data-bs-theme="dark"] .biossocial a,
+[data-bs-theme="dark"] .acktitle {
+  color: #3fd0c9;
 }

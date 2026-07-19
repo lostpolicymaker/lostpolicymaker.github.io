@@ -8,14 +8,14 @@
 
 {% if any-share-links %}
 <section id = "social-share-section">
-  <span class="sr-only">Share: </span>
+  <span class="visually-hidden">Share: </span>
 
   {% if site.share-links-active.twitter %}
   <!--- Share on Twitter -->
     <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
       class="btn btn-social-icon btn-twitter" title="Share on Twitter">
       <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
-      <span class="sr-only">Twitter</span>
+      <span class="visually-hidden">Twitter</span>
     </a>
   {% endif %}
 
@@ -24,7 +24,7 @@
     <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"
       class="btn btn-social-icon btn-facebook" title="Share on Facebook">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
-      <span class="sr-only">Facebook</span>
+      <span class="visually-hidden">Facebook</span>
     </a>
   {% endif %}
 
@@ -33,7 +33,7 @@
     <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}"
       class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
       <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
-      <span class="sr-only">LinkedIn</span>
+      <span class="visually-hidden">LinkedIn</span>
     </a>
   {% endif %}
 

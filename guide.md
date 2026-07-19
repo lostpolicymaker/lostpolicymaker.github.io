@@ -9,6 +9,6 @@ use-site-title: true
 
 <p></p>
 
-<div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="https://docs.google.com/viewer?url=https://lostpolicymaker.org/LostPolicymaker_HackerSummerCamp_2019.pdf&embedded=true" allowfullscreen></iframe>
+<div class="ratio ratio-4x3">
+  <iframe src="https://docs.google.com/viewer?url=https://lostpolicymaker.org/LostPolicymaker_HackerSummerCamp_2019.pdf&embedded=true" allowfullscreen></iframe>
 </div>
