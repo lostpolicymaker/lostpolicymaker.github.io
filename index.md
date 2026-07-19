@@ -40,6 +40,7 @@ carousels:
     <a class="btn btn-lp-outline" href="hackerculture101">Hacker Culture 101</a>
   </div>
   <div class="lp-hero-tags">lostpolicymaker.org &middot; #lostpolicymaker &middot; #defconpolicy</div>
+  <div class="lp-hero-scroll"><a href="#about-the-lost-policymaker-guide" aria-label="Scroll to content"><i class="fa-solid fa-chevron-down"></i></a></div>
 </div>
 
 ### About the Lost Policymaker Guide

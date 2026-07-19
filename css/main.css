@@ -848,9 +848,32 @@ pre {
   background-color: #FBFAF4;
   border: 1px solid rgba(0, 0, 0, 0.08);
   border-top: 8px solid #20CFC6;
+  border-bottom: 8px solid #20CFC6;
   border-radius: 6px;
   padding: 44px 44px 36px;
   margin: 4px 0 44px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 12px 34px rgba(28, 31, 33, 0.10);
+  min-height: min(calc(100vh - 217px), 1300px);
+  min-height: min(calc(100dvh - 217px), 1300px);
+}
+.lp-hero-scroll {
+  text-align: center;
+  margin-top: 14px;
+  font-size: 22px;
+}
+.lp-hero-scroll a {
+  color: #20CFC6;
+  display: inline-block;
+  animation: lp-bob 2.2s ease-in-out infinite;
+}
+@keyframes lp-bob {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(7px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .lp-hero-scroll a { animation: none; }
 }
 .lp-hero-kicker {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
@@ -868,7 +891,18 @@ pre {
   line-height: 0.95;
   letter-spacing: -0.02em;
   color: #1c1f21;
-  margin: 0 0 30px;
+  margin: auto 0 30px;
+}
+@media (min-height: 950px) {
+  .lp-hero-title {
+    font-size: clamp(3rem, 9vw, 6.75rem);
+  }
+}
+@media (min-width: 992px) {
+  .lp-hero {
+    margin-left: -10%;
+    margin-right: -10%;
+  }
 }
 .lp-hero-meta {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
@@ -915,11 +949,14 @@ pre {
   font-size: 13px;
   letter-spacing: 1.5px;
   color: #20CFC6;
-  margin-top: 30px;
+  margin-top: auto;
+  padding-top: 20px;
 }
 @media (max-width: 575px) {
   .lp-hero {
     padding: 30px 24px 26px;
+    min-height: min(calc(100vh - 172px), 780px);
+    min-height: min(calc(100dvh - 172px), 780px);
   }
   .lp-hero-kicker {
     font-size: 12px;
@@ -938,6 +975,8 @@ pre {
   background-color: var(--bs-tertiary-bg);
   border-color: var(--bs-border-color);
   border-top-color: #20CFC6;
+  border-bottom-color: #20CFC6;
+  box-shadow: 0 12px 34px rgba(0, 0, 0, 0.45);
 }
 [data-bs-theme="dark"] .lp-hero-title {
   color: var(--bs-body-color);
