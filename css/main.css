@@ -898,12 +898,6 @@ pre {
     font-size: clamp(3rem, 9vw, 6.75rem);
   }
 }
-@media (min-width: 992px) {
-  .lp-hero {
-    margin-left: -10%;
-    margin-right: -10%;
-  }
-}
 .lp-hero-meta {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
   font-size: 14px;
