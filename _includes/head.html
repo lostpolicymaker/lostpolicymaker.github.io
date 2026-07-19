@@ -5,8 +5,8 @@
   <!-- Set color theme before first paint to avoid a flash of the wrong theme -->
   <script>
     (function () {
-      var stored = localStorage.getItem('lp-theme');
-      var theme = stored || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      // Light is the site default; dark only when the visitor has chosen it
+      var theme = localStorage.getItem('lp-theme') || 'light';
       document.documentElement.setAttribute('data-bs-theme', theme);
     })();
     function lpToggleTheme() {

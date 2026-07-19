@@ -3,15 +3,9 @@
 .biossocial,
 .biossocial a,
 .acktitle {
-  color: #0d827c;
+  color: #20CFC6;
 }
 
 .biossocial a {
   font-family: monospace;
-}
-
-[data-bs-theme="dark"] .biossocial,
-[data-bs-theme="dark"] .biossocial a,
-[data-bs-theme="dark"] .acktitle {
-  color: #3fd0c9;
 }
