@@ -898,6 +898,15 @@ pre {
     font-size: clamp(3rem, 9vw, 6.75rem);
   }
 }
+@media (min-width: 992px) {
+  /* Keep book-cover proportions: width tracks the card's height (~3:4) */
+  .lp-hero {
+    width: min(100%, max(560px, calc(min(100vh - 217px, 1300px) * 0.75)));
+    width: min(100%, max(560px, calc(min(100dvh - 217px, 1300px) * 0.75)));
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 .lp-hero-meta {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
   font-size: 14px;
