@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Lost Policymaker
-subtitle: Guide to Hacker Conferences
 use-site-title: true
 carousels:
   - images:
@@ -29,6 +27,21 @@ carousels:
     - image: /img/slider/1.jpg
 ---
 
+<div class="lp-hero">
+  <div class="lp-hero-kicker">THE LOST POLICYMAKER'S GUIDE TO</div>
+  <h1 class="lp-hero-title">Hacker<br />Summer<br />Camp</h1>
+  <div class="lp-hero-meta">
+    <div><i class="fa-solid fa-location-dot"></i> 2026 &middot; LAS VEGAS, NEVADA, USA</div>
+    <div><i class="fa-solid fa-calendar-days"></i> BLACK HAT &middot; BSIDES &middot; DEF CON</div>
+    <div><i class="fa-solid fa-circle-info"></i> TIPS, RESOURCES, MAPS</div>
+  </div>
+  <div class="lp-hero-cta">
+    <a class="btn btn-lp" href="datesandlocations">Plan Your Trip</a>
+    <a class="btn btn-lp-outline" href="hackerculture101">Hacker Culture 101</a>
+  </div>
+  <div class="lp-hero-tags">lostpolicymaker.org &middot; #lostpolicymaker &middot; #defconpolicy</div>
+</div>
+
 ### About the Lost Policymaker Guide
 The Lost Policymaker is a tongue-in-cheek nod to all the great travel guides that have given aid and comfort to those who seek new experiences in unknown spaces. We hope it will serve you in the same capacity as you travel through a hacker conference or three, whether that's in the heat of the Las Vegas desert, the friendly confines of Washington D.C., the wild west coast in San Francisco, or elsewhere.
 
@@ -38,30 +51,16 @@ In recent years public policymakers have increasingly frequented hacker and info
 ### The Conferences - Hacker Summer Camp
 The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferences with very different personalities and demographics. DEF CON, the oldest of the three, draws the largest crowd, largely from the hacker (or security researcher) community. Black Hat is the most like a typical convention, with a large vendor hall and high cost. BSides Las Vegas, the most recent, is a non-profit organization put on by the community, for the community. These events take place back-to-back in the first full week of August and the weekend that follows.
 
-{% include carousel.html height="50" unit="%" number="1" %}
-PHOTO CREDITS: [ASTCell](https://hackerphotos.com) / Cannibal / Mr Bot / [Jeroen de Bakker](https://www.jdebakker.com/cyber-security-2) — via the [DEF CON media server](https://media.defcon.org)
-<br>
-
-#### Hacker Summer Camp 2026
-
 **Black Hat USA**: `August 1-6, 2026` - Mandalay Bay Convention Center. [Learn more...](blackhat)
 
 **BSides Las Vegas**: `August 3-5, 2026` - Tuscany Suites and Casino. [Learn more...](bsideslv)
 
 **DEF CON 34**: `August 6-9, 2026` - Las Vegas Convention Center. [Learn more...](defcon)
 
-<br>
-#### ShmooCon (2005-2025)
+**Make sense of it all with [Hacker Tracker](https://apps.apple.com/us/app/hackertracker/id1021141595)** — the community-built app with constantly updated schedules, villages, and events for DEF CON and the rest of Hacker Summer Camp. Grab it for [iOS](https://apps.apple.com/us/app/hackertracker/id1021141595) or [Android](https://play.google.com/store/apps/details?id=com.shortstack.hackertracker&hl=en_US) before you land.
 
-After a 20-year run, [ShmooCon](https://shmoocon.org) — the small, low-key Washington D.C. hacker conference with a near-cult following and a moose for a logo — held its final event in January 2025. It is dearly missed. [Read our tribute to ShmooCon...](ShmooCon)
-
-<br>
-### Plan Your Trip to Hacker Summer Camp!
-* [Main Dates and Locations](datesandlocations)
-* [Hacker Culture 101](hackerculture101)
-* [Planning Your Trip / Safety Guidelines](planningyourtrip)
-* [Hacker Villages for Policymakers](villages)
-* [Side Events](sideevents)
+{% include carousel.html height="50" unit="%" number="1" %}
+PHOTO CREDITS: [ASTCell](https://hackerphotos.com) / Cannibal / Mr Bot / [Jeroen de Bakker](https://www.jdebakker.com/cyber-security-2) — via the [DEF CON media server](https://media.defcon.org)
 
 <br>
 ### Follow and Contribute

@@ -49,6 +49,8 @@ navbar-links:
       url: hackerculture101#the-defrag-film
     - title: The OG Guide [2019]
       url: guide
+    - title: ShmooCon [2005-2025]
+      url: shmoocon
   - title: Greetz
     url: greetz
 

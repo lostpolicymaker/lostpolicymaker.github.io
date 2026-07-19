@@ -841,3 +841,111 @@ pre {
   background-color: var(--bs-tertiary-bg);
   color: var(--bs-body-color);
 }
+
+/* --- Homepage hero (emulates the OG Guide cover) --- */
+
+.lp-hero {
+  background-color: #FBFAF4;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-top: 8px solid #20CFC6;
+  border-radius: 6px;
+  padding: 44px 44px 36px;
+  margin: 4px 0 44px;
+}
+.lp-hero-kicker {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
+  font-size: 14px;
+  letter-spacing: 2.5px;
+  color: #5c6266;
+  display: inline-block;
+  border-bottom: 3px solid #20CFC6;
+  padding-bottom: 12px;
+  margin-bottom: 26px;
+}
+.lp-hero-title {
+  font-size: clamp(3rem, 9vw, 5.5rem);
+  font-weight: 800;
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  color: #1c1f21;
+  margin: 0 0 30px;
+}
+.lp-hero-meta {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
+  font-size: 14px;
+  letter-spacing: 1.5px;
+  color: #495057;
+}
+.lp-hero-meta > div {
+  margin-bottom: 8px;
+}
+.lp-hero-meta i {
+  color: #20CFC6;
+  width: 26px;
+}
+.lp-hero-cta {
+  margin-top: 30px;
+}
+.lp-hero-cta .btn {
+  margin: 6px 10px 0 0;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+.btn-lp {
+  background-color: #20CFC6;
+  border: 2px solid #20CFC6;
+  color: #093a37;
+}
+.btn-lp:hover, .btn-lp:focus {
+  background-color: #0085A1;
+  border-color: #0085A1;
+  color: #ffffff;
+}
+.btn-lp-outline {
+  background-color: transparent;
+  border: 2px solid #20CFC6;
+  color: #0d827c;
+}
+.btn-lp-outline:hover, .btn-lp-outline:focus {
+  background-color: #20CFC6;
+  color: #093a37;
+}
+.lp-hero-tags {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
+  font-size: 13px;
+  letter-spacing: 1.5px;
+  color: #20CFC6;
+  margin-top: 30px;
+}
+@media (max-width: 575px) {
+  .lp-hero {
+    padding: 30px 24px 26px;
+  }
+  .lp-hero-kicker {
+    font-size: 12px;
+    letter-spacing: 2px;
+  }
+  .lp-hero-meta {
+    font-size: 12px;
+    letter-spacing: 1px;
+  }
+  .lp-hero-tags {
+    font-size: 11px;
+    letter-spacing: 1px;
+  }
+}
+[data-bs-theme="dark"] .lp-hero {
+  background-color: var(--bs-tertiary-bg);
+  border-color: var(--bs-border-color);
+  border-top-color: #20CFC6;
+}
+[data-bs-theme="dark"] .lp-hero-title {
+  color: var(--bs-body-color);
+}
+[data-bs-theme="dark"] .lp-hero-kicker,
+[data-bs-theme="dark"] .lp-hero-meta {
+  color: var(--bs-secondary-color);
+}
+[data-bs-theme="dark"] .btn-lp-outline {
+  color: #20CFC6;
+}
