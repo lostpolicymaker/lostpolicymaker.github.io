@@ -1,10 +1,8 @@
-{% assign letterstring = "a,b,c,d,e,f,g,h,i,j,k,l,m,n" %}
-{% assign letters = letterstring | split: ',' %}
 {% assign number = include.number | minus: 1 %}
 <div class="carousel__holder">
     <div id="carousel{{ number }}" class="carousel">
         {% for item in page.carousels[number].images %}
-          <input class="carousel__activator" type="radio" name="carousel{{ number }}" id="{{ number }}{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
+          <input class="carousel__activator" type="radio" name="carousel{{ number }}" id="c{{ number }}-{{ forloop.index0 }}" {% if forloop.first %}checked="checked"{% endif %} />
         {% endfor %}
         {% for item in page.carousels[number].images %}
           {% if forloop.index == forloop.length %}
@@ -12,16 +10,16 @@
           {% else %}
             {% assign nextindex = forloop.index0 | plus: 1 %}
           {% endif %}
-          {% assign nextletter = letters[nextindex] %}
+
           {% if forloop.index0 == 0 %}
             {% assign previndex = forloop.length | minus: 1 %}
           {% else %}
             {% assign previndex = forloop.index0 | minus: 1 %}
           {% endif %}
-          {% assign prevletter = letters[previndex] %}
+
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="{{ number }}{{ prevletter }}"></label>
-              <label class="carousel__control carousel__control--forward" for="{{ number }}{{ nextletter }}"></label>
+              <label class="carousel__control carousel__control--backward" for="c{{ number }}-{{ previndex }}"></label>
+              <label class="carousel__control carousel__control--forward" for="c{{ number }}-{{ nextindex }}"></label>
           </div>
         {% endfor %}
         <div class="carousel__track">
@@ -33,7 +31,7 @@
         </div>
         <div class="carousel__indicators">
             {% for item in page.carousels[number].images %}
-              <label class="carousel__indicator" for="{{ number }}{{ letters[forloop.index0] }}"></label>
+              <label class="carousel__indicator" for="c{{ number }}-{{ forloop.index0 }}"></label>
             {% endfor %}
         </div>
     </div>

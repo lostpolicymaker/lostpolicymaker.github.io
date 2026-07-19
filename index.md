@@ -6,15 +6,27 @@ use-site-title: true
 carousels:
   - images:
     - image: /img/slider/dc33-01-astcell_0315.jpg
+    - image: /img/slider/image13.jpg
     - image: /img/slider/dc33-02-astcell_0220.jpg
+    - image: /img/slider/image12.jpg
     - image: /img/slider/dc33-03-astcell_0565.jpg
+    - image: /img/slider/image11.jpg
     - image: /img/slider/dc33-04-cannibal_082.jpg
+    - image: /img/slider/image10.jpg
     - image: /img/slider/dc33-05-astcell_0685.jpg
+    - image: /img/slider/image8.jpg
     - image: /img/slider/dc33-06-cannibal_138.jpg
+    - image: /img/slider/image7.jpg
     - image: /img/slider/dc33-07-astcell_0545.jpg
+    - image: /img/slider/6.jpg
     - image: /img/slider/dc33-08-cannibal_258.jpg
+    - image: /img/slider/5.jpg
     - image: /img/slider/dc33-09-cannibal_270.jpg
+    - image: /img/slider/4.jpg
     - image: /img/slider/dc33-10-cannibal_328.jpg
+    - image: /img/slider/3.jpg
+    - image: /img/slider/2.jpg
+    - image: /img/slider/1.jpg
 ---
 
 ### About the Lost Policymaker Guide
@@ -27,7 +39,7 @@ In recent years public policymakers have increasingly frequented hacker and info
 The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferences with very different personalities and demographics. DEF CON, the oldest of the three, draws the largest crowd, largely from the hacker (or security researcher) community. Black Hat is the most like a typical convention, with a large vendor hall and high cost. BSides Las Vegas, the most recent, is a non-profit organization put on by the community, for the community. These events take place back-to-back in the first full week of August and the weekend that follows.
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-PHOTO CREDITS: [ASTCell](https://hackerphotos.com) / Cannibal — DEF CON 33, via the [DEF CON media server](https://media.defcon.org)
+PHOTO CREDITS: [ASTCell](https://hackerphotos.com) / Cannibal / Mr Bot / [Jeroen de Bakker](https://www.jdebakker.com/cyber-security-2) — via the [DEF CON media server](https://media.defcon.org)
 <br>
 
 #### Hacker Summer Camp 2026
