@@ -38,7 +38,7 @@ In recent years public policymakers have increasingly frequented hacker and info
 ### The Conferences - Hacker Summer Camp
 The colloquial term “Hacker Summer Camp” refers to three Las Vegas conferences with very different personalities and demographics. DEF CON, the oldest of the three, draws the largest crowd, largely from the hacker (or security researcher) community. Black Hat is the most like a typical convention, with a large vendor hall and high cost. BSides Las Vegas, the most recent, is a non-profit organization put on by the community, for the community. These events take place back-to-back in the first full week of August and the weekend that follows.
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="50" unit="%" number="1" %}
 PHOTO CREDITS: [ASTCell](https://hackerphotos.com) / Cannibal / Mr Bot / [Jeroen de Bakker](https://www.jdebakker.com/cyber-security-2) — via the [DEF CON media server](https://media.defcon.org)
 <br>
 
