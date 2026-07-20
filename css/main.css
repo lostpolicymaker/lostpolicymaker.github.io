@@ -991,3 +991,23 @@ pre {
 [data-bs-theme="dark"] .btn-lp-outline {
   color: #20CFC6;
 }
+
+/* Glider Pin colophon on the hero cover */
+.lp-hero {
+  position: relative;
+}
+.lp-hero-mark {
+  position: absolute;
+  top: 32px;
+  right: 40px;
+  width: 46px;
+  height: 46px;
+}
+@media (max-width: 575px) {
+  .lp-hero-mark {
+    top: 24px;
+    right: 22px;
+    width: 34px;
+    height: 34px;
+  }
+}

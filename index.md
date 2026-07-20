@@ -28,6 +28,7 @@ carousels:
 ---
 
 <div class="lp-hero">
+  <img class="lp-hero-mark" src="/img/logo.svg" alt="">
   <div class="lp-hero-kicker">THE LOST POLICYMAKER'S GUIDE TO</div>
   <h1 class="lp-hero-title">Hacker<br />Summer<br />Camp</h1>
   <div class="lp-hero-meta">
