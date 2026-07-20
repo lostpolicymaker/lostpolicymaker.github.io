@@ -1011,3 +1011,23 @@ pre {
     height: 34px;
   }
 }
+
+/* --- Readable line lengths on wide screens --- */
+/* Cap the reading column at ~85 characters and keep navbar/header edges aligned with it */
+@media (min-width: 1200px) {
+  .container[role="main"] > .row > [class*="col-"],
+  .intro-header .row > [class*="col-"],
+  .navbar .row > [class*="col-"],
+  footer .row > [class*="col-"] {
+    max-width: 48rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .navbar-nav {
+    --bs-navbar-nav-link-padding-x: 0.4rem;
+  }
+  .navbar-brand {
+    margin-right: 0.5rem;
+    font-size: 1.15rem;
+  }
+}
