@@ -41,10 +41,16 @@ How has cinema shaped what the world thinks a hacker is — and what has that me
 <hr>
 
 ### Some Great Hacker Movies
+We asked some of our friends about their favorite hacker films.
 * **[War Games](https://www.imdb.com/title/tt0086567/)**: *"It features similar technology and techniques from when I was getting started in computers, and has some really accurate characters. Plus, the hero goes from Puzzler to Protector when he realizes the stakes of the game.” @BEAUWOODS*
 * **[The Martian](https://www.imdb.com/title/tt3659388/?ref_=fn_al_tt_1)**: *"It shows a hacker as a problem solver. If there would have been practical jokes in the movie it would have been a perfect showcase for the meaning of the word ‘hacker’.” @ihackforfun*
 * **[Hackers](https://www.imdb.com/title/tt0113243/?ref_=fn_al_tt_1)**: *"Sure it gets all the hacking wrong, but it nails a lot of what the defcon community is like & about. I’ll never know if it’s art imitating life or life imitating art, but there is no question it is still a strong influence on the hacker community.” @MisterGlass*
 * **[Superman 3](https://www.imdb.com/title/tt0086393/?ref_=nv_sr_srsg_0)**: *"Richard Pryor as a computer who uses his hacking skills to round pennies into his bank account AND synthesize fake Kryptonite to try to kill Superman.  What’s not to love?” @PatChadwick78*
 * **[Catch Me if You Can](https://www.imdb.com/title/tt0264464/?ref_=nv_sr_srsg_0)**: *"Social Engineering at its finest!" @__winn*
+
+And here's some of ours that they didn't mention:
+* **[Sneakers](https://en.wikipedia.org/wiki/Sneakers_(1992_film))**: *"The world isn't run by weapons anymore, or energy, or money. It's run by little ones and zeroes, little bits of data. It's all just electrons."*
+* **[Die Hard](https://en.wikipedia.org/wiki/Die_Hard)**: Not only is it a grea hacker film, it's considered by some to be one of the best Christmas films.
+* **[Colossus: The Forbin Project](https://www.imdb.com/title/tt0064177/)**: Competing Soviet and US artificial intelligence systems put the world on lockdown to prevent a nuclear exchange. Prescient.
 
 <hr>

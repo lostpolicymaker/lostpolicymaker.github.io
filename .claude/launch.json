@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jekyll-docker",
+      "runtimeExecutable": "docker",
+      "runtimeArgs": [
+        "run", "--rm", "--name", "lostpolicymaker-preview",
+        "-p", "4000:4000",
+        "-v", "/Users/beauwoods/Documents/GitHub/lostpolicymaker.github.io:/site",
+        "lostpolicymaker-dev",
+        "bundle", "exec", "jekyll", "serve",
+        "--host", "0.0.0.0",
+        "--destination", "/tmp/site",
+        "--force_polling"
+      ],
+      "port": 4000
+    }
+  ]
+}
